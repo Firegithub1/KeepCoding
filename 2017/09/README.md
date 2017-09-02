@@ -1,6 +1,6 @@
 # 2017年9月Coding签到
 
-个人主页：<a href="http://renkaigis.com/" target="_blank">KeepCoding签到</a>
+个人主页：<a href="http://renkaigis.com/" target="_blank">秋月春风等闲度</a>
 
 - 本计划所用源码来自书籍<a href="https://book.douban.com/subject/5417003/" target="_blank">《Java开发实战1200例（第Ⅰ卷）》</a>
 
