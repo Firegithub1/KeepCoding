@@ -7,7 +7,7 @@
 | 日期 | 签到 | 内容 |
 | :---: | :---: | :--- |
 | 01 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/01">参见代码</a><br>019：输出错误信息与调试信息<br>020：从控制台接收输入字符<br>021：重定向输出流实现程序日志<br>022：自动类型转换与强制类型转换 |
-| 02 |  |  |
+| 02 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/02">参见代码</a><br>023：加密可以这样简单（位运算）<br>024：用三元运算符判断奇数和偶数<br>025：更精确地使用浮点数（BidDecimal）<br>026：不用乘法运算符实现 2×16 |
 | 03 |  |  |
 | 04 |  |  |
 | 05 |  |  |
