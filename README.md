@@ -9,3 +9,5 @@
 2017年9月：<a href="2017/09">KeepCoding签到</a>
 
 **坚持坚持！**
+
+个人主页：<a href="http://renkaigis.com/" target="_blank">KeepCoding签到</a>
