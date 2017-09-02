@@ -1,8 +1,12 @@
 # 2017年9月Coding签到
 
+个人主页：<a href="http://renkaigis.com/" target="_blank">KeepCoding签到</a>
+
+- 本计划所用源码来自书籍<a href="https://book.douban.com/subject/5417003/" target="_blank">《Java开发实战1200例（第Ⅰ卷）》</a>
+
 | 日期 | 签到 | 内容 |
-| --- | --- | --- |
-| 01 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/01">代码</a> |
+| :---: | :---: | :--- |
+| 01 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/01">参见代码</a><br>019：输出错误信息与调试信息<br>020：从控制台接收输入字符<br>021：重定向输出流实现程序日志<br>022：自动类型转换与强制类型转换 |
 | 02 |  |  |
 | 03 |  |  |
 | 04 |  |  |

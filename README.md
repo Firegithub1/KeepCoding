@@ -10,4 +10,4 @@
 
 **坚持坚持！**
 
-个人主页：<a href="http://renkaigis.com/" target="_blank">KeepCoding签到</a>
+个人主页：<a href="http://renkaigis.com/" target="_blank">秋月春风等闲度</a>
