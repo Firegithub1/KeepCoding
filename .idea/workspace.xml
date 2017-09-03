@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1594de18-1f0d-4a59-872a-5e72374f7542" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/09/03/CheckLogin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/09/03/ErgodicArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/09/03/ExampleSwitch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/09/03/JudgeMonth.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/09/03/LeapYear.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/09/03/VariableExchange.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/09/03/ProductPrice.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017/09/09.iml" afterPath="$PROJECT_DIR$/2017/09/09.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017/09/README.md" afterPath="$PROJECT_DIR$/2017/09/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -355,7 +350,7 @@
       <option name="presentableId" value="Default" />
       <updated>1504353832375</updated>
       <workItem from="1504353833888" duration="3846000" />
-      <workItem from="1504427959252" duration="6245000" />
+      <workItem from="1504427959252" duration="6429000" />
     </task>
     <task id="LOCAL-00001" summary="第一次用git和idea连接，尝试一下">
       <created>1504355529480</created>
@@ -371,11 +366,18 @@
       <option name="project" value="LOCAL" />
       <updated>1504355720642</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2017年9月3日">
+      <created>1504434258234</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1504434258234</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10336000" />
+    <option name="totallyTimeSpent" value="10520000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -426,7 +428,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次用git和idea连接，尝试一下" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次用git和idea连接，尝试一下" />
+    <MESSAGE value="2017年9月3日" />
+    <option name="LAST_COMMIT_MESSAGE" value="2017年9月3日" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -592,6 +595,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
