@@ -13,7 +13,7 @@
 | 05 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/05">参见代码</a><br>041：循环的极限（死循环）<br>042：获取一维数组最小值（用JFrame，**没有再现代码！！没搞懂！**）<br>042问题已解决：自己做的时候出现的错误是label在ArrayMinValue类中定义，do_button_actionPerformed这个方法不能使用它，只需要将它声明在ArrayMinValue窗体中即可！ |
 | 06 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/06">参见代码</a><br>043：将二维数组中的行列互换<br>044：利用数组随机抽取幸运观众（JFrame） |
 | 07 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/07">参见代码</a><br>045：用数组设置 JTable 表格的列名与列宽 |
-| 08 |  |  |
+| 08 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/08">参见代码</a><br>046：数组的下标界限（数组下标越界抛出异常）<br> *主程序很简单，烦的是为什么都要界面编程。大致看了一下后面的程序，几乎都要使用界面。有点要疯狂了！！！*<br>今天帮师姐打辅助，暂且练习一个代码吧~ |
 | 09 |  |  |
 | 10 |  |  |
 | 11 |  |  |
