@@ -7,14 +7,14 @@
 | 日期 | 签到 | 内容 |
 | :---: | :---: | :--- |
 | 01 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/01">参见代码</a><br>019：输出错误信息与调试信息<br>020：从控制台接收输入字符<br>021：重定向输出流实现程序日志<br>022：自动类型转换与强制类型转换 |
-| 02 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/02">参见代码</a><br>023：加密可以这样简单（位运算）<br>024：用三元运算符判断奇数和偶数<br>025：更精确地使用浮点数（BidDecimal）<br>026：不用乘法运算符实现 2×16 |
+| 02 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/02">参见代码</a><br>023：加密可以这样简单（位运算）<br>024：用三元运算符判断奇数和偶数<br>025：更精确地使用浮点数（BigDecimal）<br>026：不用乘法运算符实现 2×16 |
 | 03 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/03">参见代码</a><br>027：实现两个变量的互换（不借助第3个变量，用异或来互换）<br>028：判断某一年是否为闰年（if……else）<br>029：验证登陆信息的合法性（if……else）<br>030：为新员工分配部门（switch）<br>031：用switch语句根据消费金额计算折扣<br>032：判断用户输入月份的季节（switch）<br>033：使用while与自增运算符循环遍历数组 |
 | 04 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/04">参见代码</a><br>034：使用for循环输出杨辉三角<br>035：使用嵌套循环在控制台上输出九九乘法表<br>036：用while循环计算 1+1/2!+1/3!+…1/20!<br>037：for 循环输出空心的菱形<br>038：foreach 循环优于 for 循环<br>039：终止循环体（break）<br>040：循环体的过滤器（continue语句） |
 | 05 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/05">参见代码</a><br>041：循环的极限（死循环）<br>042：获取一维数组最小值（用JFrame，**没有再现代码！！没搞懂！**）<br>042问题已解决：自己做的时候出现的错误是label在ArrayMinValue类中定义，do_button_actionPerformed这个方法不能使用它，只需要将它声明在ArrayMinValue窗体中即可！ |
 | 06 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/06">参见代码</a><br>043：将二维数组中的行列互换<br>044：利用数组随机抽取幸运观众（JFrame） |
 | 07 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/07">参见代码</a><br>045：用数组设置 JTable 表格的列名与列宽 |
 | 08 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/08">参见代码</a><br>046：数组的下标界限（数组下标越界抛出异常）<br> *主程序很简单，烦的是为什么都要界面编程。大致看了一下后面的程序，几乎都要使用界面。有点要疯狂了！！！*<br>*今天帮师姐打辅助，暂且练习一个代码吧~* |
-| 09 |  |  |
+| 09 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/08">参见代码</a><br>047：按钮控件数组实现计算器界面（JButton控件的二维数组）<br>048：复选框控件数组（CheckBox） |
 | 10 |  |  |
 | 11 |  |  |
 | 12 |  |  |
