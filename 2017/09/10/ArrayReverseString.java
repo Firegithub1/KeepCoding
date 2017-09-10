@@ -1,6 +1,6 @@
 /**
  * 049：用数组反转字符串（renkai→iakner）
- *
+ * <p>
  * 很不错的一个算法，值得学习~
  */
 
@@ -87,20 +87,20 @@ public class ArrayReverseString extends JFrame {
     }
 
     protected void do_btnNewButton_actionPerformed(ActionEvent e) {
-        String inputStr=inputField.getText();
-        char[] strArray=inputStr.toCharArray();
+        String inputStr = inputField.getText();
+        char[] strArray = inputStr.toCharArray();
         infoArea.setText("");
-        for(int i=0;i<strArray.length/2;i++) {
-            char temp=strArray[i];
-            strArray[i]=strArray[strArray.length-i-1];
-            strArray[strArray.length-i-1]=temp;
-            infoArea.append("第"+(i+1)+"次循环：\t");
-            for(char c:strArray) {
-                infoArea.append(c+"");
+        for (int i = 0; i < strArray.length / 2; i++) {
+            char temp = strArray[i];
+            strArray[i] = strArray[strArray.length - i - 1];
+            strArray[strArray.length - i - 1] = temp;
+            infoArea.append("第" + (i + 1) + "次循环：\t");
+            for (char c : strArray) {
+                infoArea.append(c + "");
             }
             infoArea.append("\n");
         }
-        String outputStr =new String(strArray);
+        String outputStr = new String(strArray);
         outputField.setText(outputStr);
     }
 }
