@@ -18,7 +18,7 @@
 | 10 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/10">参见代码</a><br>049：用数组反转字符串（renkai → iakner）<br>050：使用选择排序法（**必须重点掌握**） |
 | 11 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/11">参见代码</a><br>051：冒泡排序法（**必须重点掌握**）<br>*后面半个多月要开始给老师加紧做一个项目了！* |
 | 12 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/12">参见代码</a><br>052：快速排序法（**必须重点掌握**） |
-| 13 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/13"></a><br> |
+| 13 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/13">参见代码</a><br>053：直接插入排序法（**必须重点掌握**）<br>054：使用 sort 方法对数组进行排序（Java 自带 Arrays 类中的 sort 方法）<br>*奇怪的是为什么限制文本框输入字符的 keyPressed 方法没用！！！* |
 | 14 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/14"></a><br> |
 | 15 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/15"></a><br> |
 | 16 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/16"></a><br> |
