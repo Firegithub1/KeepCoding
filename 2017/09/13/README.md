@@ -4,7 +4,7 @@
 
 插入排序算法的思想是：将 n 个有序数存放在数组 a 中，要插入的数为 x，首先确定 x 插在数组中的位置 p，数组中 p 之后的元素都向后移一个位置，空出 a(p),将 x 放入 a(p)。这样即可实现插入后数列仍然有序。
 
-**核心代码：**<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/13">转到github查看源码</a>
+**核心代码：**<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/13" target="_blank">转到github查看源码</a>
 
 ```java
 private int[] array = new int[10];
@@ -55,7 +55,7 @@ array：要排序的 int 类型的一维数组。
 
 代码中的 (char)8 指的是`退格键`
 
-**核心代码：**<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/13">转到github查看源码</a>
+**核心代码：**<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/13" target="_blank">转到github查看源码</a>
 
 ```java
 protected void do_button_actionPerformed(ActionEvent e) {

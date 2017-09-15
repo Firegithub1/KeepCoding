@@ -30,7 +30,7 @@ public boolean remove(Object object)
 
 - 返回值：是否成功移除数据。
 
-**核心代码：**<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/15">转到github查看源码</a>
+**核心代码：**<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/15" target="_blank">转到github查看源码</a>
 
 1）编写“添加学生”按钮的事件处理方法，在该方法中获取用户在文本框的输入字符串，然后将这个字符串添加到 ArrayList 集合中，再调用 replaceModel() 方法把集合中的数据显示到窗体的列表控件中。
 

@@ -23,7 +23,7 @@
 最后反转的数：90 89 78 67 56 45 34 23 12
 
 
-**核心代码：**<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/14">转到github查看源码</a>
+**核心代码：**<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/14" target="_blank">转到github查看源码</a>
 
 ```java
 protected void do_button_actionPerformed(ActionEvent e) {

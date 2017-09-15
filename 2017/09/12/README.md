@@ -30,7 +30,7 @@
 
 （上面是最终结果）
 
-**核心代码：**<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/12">转到github查看源码</a>
+**核心代码：**<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/12" target="_blank">转到github查看源码</a>
 
 ```java
 protected void do_button_1_actionPerformed(ActionEvent e) {
