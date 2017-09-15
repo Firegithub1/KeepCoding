@@ -30,3 +30,60 @@
 
 （上面是最终结果）
 
+**核心代码：**<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/12">转到github查看源码</a>
+
+```java
+protected void do_button_1_actionPerformed(ActionEvent e) {
+    Random random = new Random();
+    String text = "";
+    for (int i = 0; i < array.length; i++) {
+        array[i] = random.nextInt(90);
+        text += (array[i] + "  ");
+    }
+    textField.setText(text);
+}
+
+protected void do_button_actionPerformed(ActionEvent e) {
+    textArea.setText("");
+    quickSort(array, 0, array.length - 1);
+}
+
+private void quickSort(int sortarray[], int lowIndex, int highIndex) {
+    int lo = lowIndex;
+    int hi = highIndex;
+    int mid;
+    if (highIndex > lowIndex) {
+        mid = sortarray[(lowIndex + highIndex) / 2];
+        while (lo <= hi) {
+            while ((lo < highIndex) && (sortarray[lo] < mid))
+                ++lo;
+            while ((hi > lowIndex) && (sortarray[hi] > mid))
+                --hi;
+            if (lo <= hi) {
+                swap(sortarray, lo, hi);
+                ++lo;
+                --hi;
+            }
+        }
+        if (lowIndex < hi)
+            quickSort(sortarray, lowIndex, hi);
+        if (lo < highIndex)
+            quickSort(sortarray, lo, highIndex);
+    }
+}
+
+private void swap(int swapArray[], int i, int j) {
+    int temp = swapArray[i];
+    swapArray[i] = swapArray[j];
+    swapArray[j] = temp;
+    for (int k = 0; k < array.length; k++) {
+        textArea.append(array[k] + "  ");
+    }
+    textArea.append("\n");
+}
+```
+
+运行结果：
+
+<div align="center"><img src="http://image.renkaigis.com/keepcoding/2017091201.png"></div>
+

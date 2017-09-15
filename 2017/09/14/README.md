@@ -23,7 +23,7 @@
 最后反转的数：90 89 78 67 56 45 34 23 12
 
 
-- 关键代码
+**核心代码：**<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/14">转到github查看源码</a>
 
 ```java
 protected void do_button_actionPerformed(ActionEvent e) {
@@ -42,3 +42,8 @@ protected void do_button_actionPerformed(ActionEvent e) {
     }
 }
 ```
+
+运行结果：
+
+<div align="center"><img src="http://image.renkaigis.com/keepcoding/2017091401.png"></div>
+
