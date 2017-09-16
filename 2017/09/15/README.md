@@ -1,10 +1,10 @@
 # 用动态数组保存学生姓名
 
-Java 中提供了各种数据集合类，这些类主要用于保存复杂结构的数据，其中 ArrayList 集合可以看作动态数组。它突破普通数组固定长度的限制，可以随时向数组中添加和移除元素，这将使数组更加灵活，如果要获取普通数组，还可以通过该类的 toArray() 方法获得。
+`Java` 中提供了各种数据集合类，这些类主要用于保存复杂结构的数据，其中 `ArrayList` 集合可以看作动态数组。它突破普通数组固定长度的限制，可以随时向数组中添加和移除元素，这将使数组更加灵活，如果要获取普通数组，还可以通过该类的 `toArray()` 方法获得。
 
 ### 添加元素
 
-add() 方法可以为数组集合添加元素，其中元素类型任意。该方法声明如下：
+`add()` 方法可以为数组集合添加元素，其中元素类型任意。该方法声明如下：
 
 ```java
 public boolean add(E element)
@@ -12,13 +12,13 @@ public boolean add(E element)
 
 参数说明：
 
-- element：要添加到集合中的任意类型的元素值或对象。
+- `element`：要添加到集合中的任意类型的元素值或对象。
 
 - 返回值：是否成功添加数据。
 
 ### 移除元素
 
-remove() 方法可以移除集合中的指定元素，其中只包含 Object 类型参数的此方法的重载格式可以从集合中移除首次出现指定值的元素。该方法的声明如下：
+`remove()` 方法可以移除集合中的指定元素，其中只包含 `Object` 类型参数的此方法的重载格式可以从集合中移除首次出现指定值的元素。该方法的声明如下：
 
 ```java
 public boolean remove(Object object)
@@ -26,13 +26,13 @@ public boolean remove(Object object)
 
 参数说明：
 
-- object：要从集合中移除的对象。
+- `object`：要从集合中移除的对象。
 
 - 返回值：是否成功移除数据。
 
-**核心代码：**<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/15" target="_blank">转到github查看源码</a>
+**核心代码：**<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/15" target="_blank">转至 github 查看源码</a>
 
-1）编写“添加学生”按钮的事件处理方法，在该方法中获取用户在文本框的输入字符串，然后将这个字符串添加到 ArrayList 集合中，再调用 replaceModel() 方法把集合中的数据显示到窗体的列表控件中。
+1）编写 `添加学生` 按钮的事件处理方法，在该方法中获取用户在文本框的输入字符串，然后将这个字符串添加到 `ArrayList` 集合中，再调用 `replaceModel()` 方法把集合中的数据显示到窗体的列表控件中。
 
 ```java
 protected void do_button_actionPerformed(ActionEvent e) {
@@ -47,7 +47,7 @@ protected void do_button_actionPerformed(ActionEvent e) {
 }
 ```
 
-2）编写“删除学校”按钮的事件处理方法，在该方法中获取列表控件的当前选择项，然后从 ArrayList 集合中移除这个选择项的值，最后调用 replaceModel() 方法把集合中的数据显示到窗体的列表控件中。
+2）编写 `删除学校` 按钮的事件处理方法，在该方法中获取列表控件的当前选择项，然后从 `ArrayList` 集合中移除这个选择项的值，最后调用 `replaceModel()` 方法把集合中的数据显示到窗体的列表控件中。
 
 ```java
 protected void do_button_1_actionPerformed(ActionEvent e) {
@@ -57,7 +57,7 @@ protected void do_button_1_actionPerformed(ActionEvent e) {
 }
 ```
 
-3）编写 replaceModel() 方法，在该方法中重新设置列表控件的模型，然后读取 ArrayList 集合的元素并显示到列表控件中。
+3）编写 `replaceModel()` 方法，在该方法中重新设置列表控件的模型，然后读取 `ArrayList` 集合的元素并显示到列表控件中。
 
 ```java
 private void replaceModel() {
@@ -74,7 +74,7 @@ private void replaceModel() {
 }
 ```
 
-运行结果：
+**运行结果：**
 
-<div align="center"><img src="http://image.renkaigis.com/keepcoding/2017091501.png"></div><br>
+<div align="center"><img src="http://image.renkaigis.com/keepcoding/2017091501.png"></div>
 <div align="center"><img src="http://image.renkaigis.com/keepcoding/2017091502.png"></div>

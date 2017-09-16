@@ -1,7 +1,5 @@
 /**
  * 052：快速排序法（**必须重点掌握**）
- *
- *
  */
 
 import java.awt.BorderLayout;
@@ -105,7 +103,7 @@ public class QuickSort extends JFrame {
     private int[] array = new int[10];
 
     protected void do_button_1_actionPerformed(ActionEvent e) {
-        Random random = new Random();
+        Random random = new Random(); // 创建随机数对象
         String text = "";
         for (int i = 0; i < array.length; i++) {
             array[i] = random.nextInt(90);
@@ -115,41 +113,41 @@ public class QuickSort extends JFrame {
     }
 
     protected void do_button_actionPerformed(ActionEvent e) {
-        textArea.setText("");
-        quickSort(array, 0, array.length - 1);
+        textArea.setText(""); // 清空文本域
+        quickSort(array, 0, array.length - 1); // 调用快速排序算法
     }
 
     private void quickSort(int sortarray[], int lowIndex, int highIndex) {
-        int lo = lowIndex;
-        int hi = highIndex;
-        int mid;
+        int lo = lowIndex; // 记录最小索引
+        int hi = highIndex; // 记录最大索引
+        int mid; // 记录分界点元素
         if (highIndex > lowIndex) {
-            mid = sortarray[(lowIndex + highIndex) / 2];
+            mid = sortarray[(lowIndex + highIndex) / 2]; // 确定中间分界点元素值
             while (lo <= hi) {
                 while ((lo < highIndex) && (sortarray[lo] < mid))
-                    ++lo;
+                    ++lo; // 确定不大于分解元素值的最小索引
                 while ((hi > lowIndex) && (sortarray[hi] > mid))
-                    --hi;
-                if (lo <= hi) {
-                    swap(sortarray, lo, hi);
-                    ++lo;
-                    --hi;
+                    --hi; // 确定大鱼分解元素之的最大索引
+                if (lo <= hi) { // 如果最小和最大索引没有重叠
+                    swap(sortarray, lo, hi); // 交换两个索引的元素
+                    ++lo; // 递增最小索引
+                    --hi; // 递减最大索引
                 }
             }
-            if (lowIndex < hi)
+            if (lowIndex < hi) // 递归排序没有未分解元素
                 quickSort(sortarray, lowIndex, hi);
-            if (lo < highIndex)
+            if (lo < highIndex) // 递归排序没有未分解元素
                 quickSort(sortarray, lo, highIndex);
         }
     }
 
     private void swap(int swapArray[], int i, int j) {
-        int temp = swapArray[i];
+        int temp = swapArray[i]; // 交换数组元素
         swapArray[i] = swapArray[j];
         swapArray[j] = temp;
-        for (int k = 0; k < array.length; k++) {
+        for (int k = 0; k < array.length; k++) { // 把数组元素显示到文本域控件中
             textArea.append(array[k] + "  ");
         }
-        textArea.append("\n");
+        textArea.append("\n"); // 追加换行符
     }
 }
