@@ -21,7 +21,7 @@
 | 13 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/09/13" target="_blank">设计思想及过程</a><br><a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/13" target="_blank">转至 github 查看源码</a><br>053：直接插入排序法（**必须重点掌握**）<br>054：使用 sort 方法对数组进行排序（Java 自带 Arrays 类中的 sort 方法）<br>*奇怪的是为什么限制文本框输入字符的 keyPressed 方法没用！！！* |
 | 14 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/09/14" target="_blank">设计思想及过程</a><br><a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/14" target="_blank">转至 github 查看源码</a><br>055：反转数组中元素的顺序 |
 | 15 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/09/15" target="_blank">设计思想及过程</a><br><a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/15" target="_blank">转至 github 查看源码</a><br>056：用动态数组保存学生姓名（ArrayList 集合类） |
-| 16 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/16"></a><br> |
+| 16 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/09/16" target="_blank">设计思想及过程</a><br><a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/16" target="_blank">转至 github 查看源码</a><br>057：用 List 集合传递学生信息 |
 | 17 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/17"></a><br> |
 | 18 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/18"></a><br> |
 | 19 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/19"></a><br> |
