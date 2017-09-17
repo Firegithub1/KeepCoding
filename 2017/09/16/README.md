@@ -4,7 +4,7 @@
 
 本实例使用 `List` 集合在方法之间传递学生信息。
 
-**核心代码：**<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/15" target="_blank">转至 github 查看源码</a>
+**核心代码：**<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/16" target="_blank">转至 github 查看源码</a>
 
 1）编写 `getTable` 方法。在该方法中创建表格对象并设置表格的数据模型，然后调用 `getStudents()` 方法获取保存学信息的集合对象，在遍历该集合对象的同时把每个元素添加到表格模型的行，并显示到表格控件中。
 
