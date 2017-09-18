@@ -23,16 +23,16 @@
 | 15 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/09/15" target="_blank">设计思想及过程</a><br><a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/15" target="_blank">转至 github 查看源码</a><br>056：用动态数组保存学生姓名（ArrayList 集合类） |
 | 16 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/09/16" target="_blank">设计思想及过程</a><br><a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/16" target="_blank">转至 github 查看源码</a><br>057：用 List 集合传递学生信息 |
 | 17 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/09/17" target="_blank">设计思想及过程</a><br><a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/17" target="_blank">转至 github 查看源码</a><br>058：用 TreeSet 生成不重复自动排序随机数组<br>059：Map 映射集合实现省市级联选择框|
-| 18 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/18"></a><br> |
-| 19 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/19"></a><br> |
-| 20 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/20"></a><br> |
-| 21 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/21"></a><br> |
-| 22 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/22"></a><br> |
-| 23 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/23"></a><br> |
-| 24 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/24"></a><br> |
-| 25 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/25"></a><br> |
-| 26 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/26"></a><br> |
-| 27 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/27"></a><br> |
-| 28 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/28"></a><br> |
-| 29 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/29"></a><br> |
-| 30 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/30"></a><br> |
+| 18 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/18" target="_blank">参见代码</a><br>060：把数字格式化为货币字符串（NumberFormat）<br>061：格式化当前日期（DateFormat） |
+| 19 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/19" target="_blank"></a><br> |
+| 20 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/20" target="_blank"></a><br> |
+| 21 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/21" target="_blank"></a><br> |
+| 22 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/22" target="_blank"></a><br> |
+| 23 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/23" target="_blank"></a><br> |
+| 24 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/24" target="_blank"></a><br> |
+| 25 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/25" target="_blank"></a><br> |
+| 26 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/26" target="_blank"></a><br> |
+| 27 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/27" target="_blank"></a><br> |
+| 28 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/28" target="_blank"></a><br> |
+| 29 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/29" target="_blank"></a><br> |
+| 30 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/30" target="_blank"></a><br> |
