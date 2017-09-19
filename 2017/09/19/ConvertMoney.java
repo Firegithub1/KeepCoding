@@ -1,14 +1,14 @@
 /**
- * 062：货币金额大写格式（太多了，没完成，19号继续）
+ * 062：货币金额大写格式（比较复杂，以后多看看）
  */
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class ConvertMoney {
-    private final static String[] STR_NUMBER={"零","壹","贰","叁","肆","伍","陆","柒","捌","玖"};
-    private final static String[] STR_UNIT={"","拾","佰","仟","万","拾","佰","仟","亿","拾","佰","仟"};
-    private final static String[] STR_UNIT2={"角","分","厘"};
+    private final static String[] STR_NUMBER = {"零", "壹", "贰", "叁", "肆", "伍", "陆", "柒", "捌", "玖"};
+    private final static String[] STR_UNIT = {"", "拾", "佰", "仟", "万", "拾", "佰", "仟", "亿", "拾", "佰", "仟"};
+    private final static String[] STR_UNIT2 = {"厘", "分", "角"};
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
@@ -20,7 +20,7 @@ public class ConvertMoney {
     public static String convert(double d) {
         DecimalFormat df = new DecimalFormat("#0.###");
         String strNum = df.format(d);
-        if (strNum.indexOf("." != -1)) {
+        if (strNum.indexOf(".") != -1) {
             String num = strNum.substring(0, strNum.indexOf("."));
             if (num.length() > 12) {
                 System.out.println("数字太大，不能完成转换！");
@@ -34,32 +34,75 @@ public class ConvertMoney {
             point = "元整";
         }
         String result = getInteger(strNum) + point + getDecimal(strNum);
-        if(result.startsWith("元")){
-            result=result.substring(1,result.length());
+        if (result.startsWith("元")) {
+            result = result.substring(1, result.length());
         }
         return result;
     }
 
     public static String getInteger(String num) {
-        if(num.indexOf(".")!=-1){
-            num=num.substring(0,num.indexOf("."));
+        if (num.indexOf(".") != -1) {
+            num = num.substring(0, num.indexOf("."));
         }
-        num=new StringBuffer(num).reverse().toString();
-        StringBuffer temp=new StringBuffer();
-        for(int i=0;i<num.length();i++){
+        num = new StringBuffer(num).reverse().toString();
+        StringBuffer temp = new StringBuffer();
+        for (int i = 0; i < num.length(); i++) {
             temp.append(STR_UNIT[i]);
-            temp.append(STR_NUMBER[num.charAt(i)-48]);
+            temp.append(STR_NUMBER[num.charAt(i) - 48]);
 
         }
-        num=temp.reverse().toString();
-        num=numReplace(num,"零拾","零216478364589235");
+        num = temp.reverse().toString();
+        num = numReplace(num, "零拾", "零");
+        num = numReplace(num, "零佰", "零");
+        num = numReplace(num, "零仟", "零");
+        num = numReplace(num, "零万", "万");
+        num = numReplace(num, "零亿", "亿");
+        num = numReplace(num, "零零", "零");
+        num = numReplace(num, "亿万", "亿");
+        if (num.lastIndexOf("零") == num.length() - 1) {
+            num = num.substring(0, num.length() - 1);
+        }
         return num;
     }
-    public static String getDecimal(String num){
-        return  num;
+
+    public static String getDecimal(String num) {
+        if (num.indexOf(".") == -1) {
+            return "";
+        }
+        num = num.substring(num.indexOf(".") + 1);
+        StringBuffer temp = new StringBuffer();
+        for (int i = 0; i < num.length(); i++) {
+            temp.append(STR_UNIT2[i]);
+            temp.append(STR_NUMBER[num.charAt(i) - 48]);
+        }
+        num = temp.reverse().toString();
+        num = numReplace(num, "零角", "零");
+        num = numReplace(num, "零分", "零");
+        num = numReplace(num, "零厘", "零");
+        num = numReplace(num, "零零", "零");
+        if (num.lastIndexOf("零") == num.length() - 1) {
+            num = num.substring(0, num.length() - 1);
+        }
+        return num;
     }
-    public static String numReplace(String num,String oldStr,String newStr){
+
+    public static String numReplace(String num, String oldStr, String newStr) {
+        while (true) {
+            if (num.indexOf(oldStr) == -1) {
+                break;
+            }
+            num = num.replaceAll(oldStr, newStr);
+        }
         return num;
     }
 
 }
+
+/*
+运行结果：
+
+请输入一个金额：
+1234325.456346
+壹佰贰拾叁万肆仟叁佰贰拾伍元陆角伍分肆厘
+
+ */

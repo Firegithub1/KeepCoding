@@ -24,7 +24,7 @@
 | 16 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/09/16" target="_blank">设计思想及过程</a><br><a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/16" target="_blank">转至 github 查看源码</a><br>057：用 List 集合传递学生信息 |
 | 17 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/09/17" target="_blank">设计思想及过程</a><br><a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/17" target="_blank">转至 github 查看源码</a><br>058：用 TreeSet 生成不重复自动排序随机数组<br>059：Map 映射集合实现省市级联选择框|
 | 18 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/18" target="_blank">参见代码</a><br>060：把数字格式化为货币字符串（NumberFormat）<br>061：格式化当前日期（DateFormat） |
-| 19 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/19" target="_blank"></a><br> |
+| 19 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/19" target="_blank">参见代码</a><br>062：货币金额大写格式（比较复杂，以后多看看） |
 | 20 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/20" target="_blank"></a><br> |
 | 21 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/21" target="_blank"></a><br> |
 | 22 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/22" target="_blank"></a><br> |
