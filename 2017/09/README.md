@@ -26,7 +26,7 @@
 | 18 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/18" target="_blank">参见代码</a><br>060：把数字格式化为货币字符串（NumberFormat）<br>061：格式化当前日期（DateFormat） |
 | 19 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/19" target="_blank">参见代码</a><br>062：货币金额大写格式（比较复杂，以后多看看） |
 | 20 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/20" target="_blank">参见代码</a><br>063：String 类格式化当前日期（String.format）<br>064：字符串大小写转换（ toUpper() 和 toLower() ） |
-| 21 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/21" target="_blank"></a><br> |
+| 21 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/21" target="_blank">参见代码</a><br>065：字符与 Unicode 码的转换（toCharArray）<br>066：判断用户名是否正确（equals） |
 | 22 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/22" target="_blank"></a><br> |
 | 23 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/23" target="_blank"></a><br> |
 | 24 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/24" target="_blank"></a><br> |
