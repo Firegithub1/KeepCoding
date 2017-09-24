@@ -4,8 +4,8 @@
 
 运行结果：
 
-<div align="center"><img src="http://image.renkaigis.com/keepcoding/2017092401.png"></div>
+<img src="http://image.renkaigis.com/keepcoding/2017092401.png">
 
-<div align="center"><img src="http://image.renkaigis.com/keepcoding/2017092402.png"></div>
+<img src="http://image.renkaigis.com/keepcoding/2017092402.png">
 
-<div align="center"><img src="http://image.renkaigis.com/keepcoding/2017092403.png"></div>
+<img src="http://image.renkaigis.com/keepcoding/2017092403.png">

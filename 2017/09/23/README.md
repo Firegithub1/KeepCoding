@@ -2,18 +2,18 @@
 
 运行结果：
 
-<div align="center"><img src="http://image.renkaigis.com/keepcoding/2017092301.png"></div>
+<img src="http://image.renkaigis.com/keepcoding/2017092301.png">
 
-<div align="center"><img src="http://image.renkaigis.com/keepcoding/2017092302.png"></div>
+<img src="http://image.renkaigis.com/keepcoding/2017092302.png">
 
-<div align="center"><img src="http://image.renkaigis.com/keepcoding/2017092303.png"></div>
+<img src="http://image.renkaigis.com/keepcoding/2017092303.png">
 
 # 判断文件类型（引入外部文件 extName.inf ）
 
 运行结果：
 
-<div align="center"><img src="http://image.renkaigis.com/keepcoding/2017092304.png"></div>
+<img src="http://image.renkaigis.com/keepcoding/2017092304.png">
 
-<div align="center"><img src="http://image.renkaigis.com/keepcoding/2017092305.png"></div>
+<img src="http://image.renkaigis.com/keepcoding/2017092305.png">
 
-<div align="center"><img src="http://image.renkaigis.com/keepcoding/2017092306.png"></div>
+<img src="http://image.renkaigis.com/keepcoding/2017092306.png">
