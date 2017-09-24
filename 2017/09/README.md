@@ -28,8 +28,8 @@
 | 20 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/20" target="_blank">参见代码</a><br>063：String 类格式化当前日期（String.format）<br>064：字符串大小写转换（ toUpper() 和 toLower() ） |
 | 21 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/21" target="_blank">参见代码</a><br>065：字符与 Unicode 码的转换（toCharArray）<br>066：判断用户名是否正确（equals） |
 | 22 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/22" target="_blank">参见代码</a><br>067：用户名排序（没看懂，明天继续看） |
-| 23 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/23" target="_blank"></a><br> |
-| 24 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/24" target="_blank"></a><br> |
+| 23 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/23" target="_blank">参见代码</a><br>068：判断网页请求与 FTP 请求（简单的 if…else…）<br>069：判断文件类型（引入外部文件 extName.inf ） |
+| 24 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/24" target="_blank">参见代码</a><br>070：判断字符串是否为数字 |
 | 25 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/25" target="_blank"></a><br> |
 | 26 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/26" target="_blank"></a><br> |
 | 27 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/27" target="_blank"></a><br> |
