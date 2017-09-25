@@ -30,7 +30,7 @@
 | 22 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/22" target="_blank">参见代码</a><br>067：用户名排序（没看懂，明天继续看） |
 | 23 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/23" target="_blank">参见代码</a><br>068：判断网页请求与 FTP 请求（简单的 if…else…）<br>069：判断文件类型（引入外部文件 extName.inf ） |
 | 24 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/24" target="_blank">参见代码</a><br>070：判断字符串是否为数字 |
-| 25 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/25" target="_blank"></a><br> |
+| 25 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/25" target="_blank">参见代码</a><br>071：验证 IP 地址的有效性（代码很简单，但是看不懂正则表达式！！！😠）<br>072：鉴别非法电话号码（正则表达式）<br><a href="http://blog.renkaigis.com/KeepCoding/2017/09/25" target="_blank">正则表达式</a> |
 | 26 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/26" target="_blank"></a><br> |
 | 27 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/27" target="_blank"></a><br> |
 | 28 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/09/28" target="_blank"></a><br> |
