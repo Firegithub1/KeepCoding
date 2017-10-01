@@ -14,7 +14,7 @@ import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
-public class CheckPhoneNum extends JFrame {
+public class CheckPhoneNumber extends JFrame {
 
     private JPanel contentPane;
     private JTextField nameField;
@@ -28,7 +28,7 @@ public class CheckPhoneNum extends JFrame {
         EventQueue.invokeLater(new Runnable() {
             public void run() {
                 try {
-                    CheckPhoneNum frame = new CheckPhoneNum();
+                    CheckPhoneNumber frame = new CheckPhoneNumber();
                     frame.setVisible(true);
                 } catch (Exception e) {
                     e.printStackTrace();
@@ -40,7 +40,7 @@ public class CheckPhoneNum extends JFrame {
     /**
      * Create the frame.
      */
-    public CheckPhoneNum() {
+    public CheckPhoneNumber() {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setBounds(100, 100, 244, 178);
         contentPane = new JPanel();

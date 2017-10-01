@@ -1,5 +1,5 @@
 /**
- * 74：将字符串的每一个字符进行倒序输出（reverse()）
+ * 074：将字符串的每一个字符进行倒序输出（reverse()）
  */
 
 import java.awt.BorderLayout;

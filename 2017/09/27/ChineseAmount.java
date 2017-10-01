@@ -1,5 +1,5 @@
 /**
- * 75：获取字符串中汉字的个数
+ * 075：获取字符串中汉字的个数
  */
 
 import java.awt.BorderLayout;
