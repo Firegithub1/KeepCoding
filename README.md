@@ -8,6 +8,7 @@
 
 ## 2017年 KeepCoding 签到
 
+<h3><a href="2017/10">2017年10月 KeepCoding 签到</a></h3>
 <h3><a href="2017/09">2017年9月 KeepCoding 签到</a></h3>
 
 ## 心有猛虎，细嗅蔷薇
