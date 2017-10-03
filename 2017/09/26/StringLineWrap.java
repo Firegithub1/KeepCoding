@@ -1,5 +1,5 @@
 /**
- * 073：根据标点符号对字符串进行分行（split（））
+ * 073：根据标点符号对字符串进行分行（split()）
  */
 
 import java.awt.BorderLayout;

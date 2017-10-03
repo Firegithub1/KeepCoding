@@ -1,5 +1,5 @@
 /**
- * 078：从字符串中分离文件路径、文件名及扩展名（substring(),indexOf(),lastIndex()）
+ * 078：从字符串中分离文件路径、文件名及扩展名（substring()，indexOf()，lastIndexOf()）
  */
 
 import java.awt.BorderLayout;

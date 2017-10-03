@@ -9,7 +9,7 @@ substring()
 indexOf()，从前往后找
 
 - 从尾部查找子字符串索引
-lastIndex()，从后往前走
+lastIndexOf()，从后往前走
 
 运行结果：
 
