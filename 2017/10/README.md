@@ -10,9 +10,9 @@
 | :---: | :---: | :--- |
 | 01 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/01" target="_blank">参见代码</a><br>JavaScript 入门案例：<br><a href="http://blog.renkaigis.com/KeepCoding/2017/10/01/案例1-弹出广告.html" target="_blank">案例1-弹出广告.html</a><br><a href="http://blog.renkaigis.com/KeepCoding/2017/10/01/案例2-表单校验.html" target="_blank">案例2-表单校验.html<br><a href="http://blog.renkaigis.com/KeepCoding/2017/10/01/案例3-隔行换色.html" target="_blank">案例3-隔行换色.html<br><a href="http://blog.renkaigis.com/KeepCoding/2017/10/01/案例4-全选和全不选.html" target="_blank">案例4-全选和全不选.html<br><a href="http://blog.renkaigis.com/KeepCoding/2017/10/01/案例5-省市联动.html" target="_blank">案例5-省市联动.html<br><a href="http://blog.renkaigis.com/KeepCoding/2017/10/01/案例6-左右选中.html" target="_blank">案例6-左右选中.html |
 | 02 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/02" target="_blank">参见代码</a><br>082：汉字与区位码的转换（getBytes()） |
-| 03 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/03" target="_blank"></a><br> |
-| 04 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/04" target="_blank"></a><br> |
-| 05 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/05" target="_blank"></a><br> |
+| 03 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/03" target="_blank"></a><br>83：自定义图书类（超简单的代码……）<br>084：温度单位转换工具（很简单的 Java 代码） |
+| 04 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/04" target="_blank"></a><br>085：域的默认初始值<br>086：编写同名方法（即方法的重载） |
+| 05 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/05" target="_blank"></a><br> |
 | 06 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/06" target="_blank"></a><br> |
 | 07 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/07" target="_blank"></a><br> |
 | 08 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/08" target="_blank"></a><br> |
