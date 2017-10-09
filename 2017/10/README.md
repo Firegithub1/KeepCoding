@@ -10,13 +10,13 @@
 | :---: | :---: | :--- |
 | 01 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/01" target="_blank">参见代码</a><br>JavaScript 入门案例：<br><a href="http://blog.renkaigis.com/KeepCoding/2017/10/01/案例1-弹出广告.html" target="_blank">案例1-弹出广告.html</a><br><a href="http://blog.renkaigis.com/KeepCoding/2017/10/01/案例2-表单校验.html" target="_blank">案例2-表单校验.html<br><a href="http://blog.renkaigis.com/KeepCoding/2017/10/01/案例3-隔行换色.html" target="_blank">案例3-隔行换色.html<br><a href="http://blog.renkaigis.com/KeepCoding/2017/10/01/案例4-全选和全不选.html" target="_blank">案例4-全选和全不选.html<br><a href="http://blog.renkaigis.com/KeepCoding/2017/10/01/案例5-省市联动.html" target="_blank">案例5-省市联动.html<br><a href="http://blog.renkaigis.com/KeepCoding/2017/10/01/案例6-左右选中.html" target="_blank">案例6-左右选中.html |
 | 02 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/02" target="_blank">参见代码</a><br>082：汉字与区位码的转换（getBytes()） |
-| 03 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/03" target="_blank"></a><br>83：自定义图书类（超简单的代码……）<br>084：温度单位转换工具（很简单的 Java 代码） |
-| 04 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/04" target="_blank"></a><br>085：域的默认初始值<br>086：编写同名方法（即方法的重载） |
-| 05 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/05" target="_blank"></a><br>087：构造方法的应用（有无参）<br>088：单例模式的应用 |
-| 06 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/06" target="_blank"></a><br>089：祖先的止痒药方（很简单的调用方法O__O "…）<br>090：统计图书的销售量（static 修饰的方法可以通过类名直接调用）<br><a href="http://blog.renkaigis.com/KeepCoding/2017/10/06" target="_blank">访问权限限定符的可见范围</a> |
-| 07 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/07" target="_blank"></a><br>091：汉诺塔问题求解（讲真，没怎么看懂！）<br>092：不能重写的方法（final） |
-| 08 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/08" target="_blank"></a><br>093：将字符串转换成整数（很简单的字符串转数字，Integer.parseInt(s)）<br>094：整数进制转换器 |
-| 09 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/10" target="_blank"></a><br> |
+| 03 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/03" target="_blank">参见代码</a><br>83：自定义图书类（超简单的代码……）<br>084：温度单位转换工具（很简单的 Java 代码） |
+| 04 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/04" target="_blank">参见代码</a><br>085：域的默认初始值<br>086：编写同名方法（即方法的重载） |
+| 05 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/05" target="_blank">参见代码</a><br>087：构造方法的应用（有无参）<br>088：单例模式的应用 |
+| 06 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/06" target="_blank">参见代码</a><br>089：祖先的止痒药方（很简单的调用方法O__O "…）<br>090：统计图书的销售量（static 修饰的方法可以通过类名直接调用）<br><a href="http://blog.renkaigis.com/KeepCoding/2017/10/06" target="_blank">访问权限限定符的可见范围</a> |
+| 07 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/07" target="_blank">参见代码</a><br>091：汉诺塔问题求解（讲真，没怎么看懂！）<br>092：不能重写的方法（final） |
+| 08 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/08" target="_blank">参见代码</a><br>093：将字符串转换成整数（很简单的字符串转数字，Integer.parseInt(s)）<br>094：整数进制转换器 |
+| 09 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/10" target="_blank">参见代码</a><br>095：查看数字的取值范围（Byte.MAX_VALUE,Byte.MIN_VALUE） |
 | 10 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/10" target="_blank"></a><br> |
 | 11 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/11" target="_blank"></a><br> |
 | 12 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/12" target="_blank"></a><br> |
