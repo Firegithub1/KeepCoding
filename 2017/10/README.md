@@ -16,11 +16,11 @@
 | 06 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/06" target="_blank">参见代码</a><br>089：祖先的止痒药方（很简单的调用方法O__O "…）<br>090：统计图书的销售量（static 修饰的方法可以通过类名直接调用）<br><a href="http://blog.renkaigis.com/KeepCoding/2017/10/06" target="_blank">访问权限限定符的可见范围</a> |
 | 07 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/07" target="_blank">参见代码</a><br>091：汉诺塔问题求解（讲真，没怎么看懂！）<br>092：不能重写的方法（final） |
 | 08 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/08" target="_blank">参见代码</a><br>093：将字符串转换成整数（很简单的字符串转数字，Integer.parseInt(s)）<br>094：整数进制转换器 |
-| 09 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/10" target="_blank">参见代码</a><br>095：查看数字的取值范围（Byte.MAX_VALUE,Byte.MIN_VALUE） |
-| 10 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/10" target="_blank"></a><br> |
-| 11 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/11" target="_blank"></a><br> |
-| 12 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/12" target="_blank"></a><br> |
-| 13 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/13" target="_blank"></a><br> |
+| 09 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/09" target="_blank">参见代码</a><br>095：查看数字的取值范围（Byte.MAX_VALUE,Byte.MIN_VALUE） |
+| 10 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/10" target="_blank">参见代码</a><br>096：ASCII编码查看器<br>097：Double 类型的比较 |
+| 11 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/11" target="_blank">参见代码</a><br>098：经理与员工的差异（继承） |
+| 12 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/12" target="_blank">参见代码</a><br>099：重写父类中的方法（Overriding） |
+| 13 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/13" target="_blank">参见代码</a><br>100：计算集合图形的面积（抽象类和方法） |
 | 14 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/14" target="_blank"></a><br> |
 | 15 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/15" target="_blank"></a><br> |
 | 16 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/16" target="_blank"></a><br> |
