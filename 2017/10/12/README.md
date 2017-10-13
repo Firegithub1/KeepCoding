@@ -1,5 +1,8 @@
-# ASCII编码查看器
+# 重写父类中的方法（Overriding）
 
 运行结果：
 
-<img src="http://image.renkaigis.com/keepcoding/2017101001.png">
+```java
+父类：我是Java的员工
+子类：我是Java的经理！
+```
