@@ -21,10 +21,10 @@
 | 11 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/11" target="_blank">参见代码</a><br>098：经理与员工的差异（继承） |
 | 12 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/12" target="_blank">参见代码</a><br>099：重写父类中的方法（Overriding） |
 | 13 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/13" target="_blank">参见代码</a><br>100：计算集合图形的面积（抽象类和方法） |
-| 14 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/14" target="_blank"></a><br> |
-| 15 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/15" target="_blank"></a><br> |
-| 16 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/16" target="_blank"></a><br> |
-| 17 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/17" target="_blank"></a><br> |
+| 14 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/14" target="_blank">参见代码</a><br>101：提高产品质量的方法（封装）<br>102：简单的汽车销售商场（多态） |
+| 15 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/15" target="_blank">参见代码</a><br>103：两只完全相同的宠物 |
+| 16 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/16" target="_blank">参见代码</a><br>104：简化 equals() 方法的重写(EqualsBuilder) |
+| 17 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/17" target="_blank">参见代码</a><br>105：重新计算对象的哈希吗（重写hashCode()） |
 | 18 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/18" target="_blank"></a><br> |
 | 19 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/19" target="_blank"></a><br> |
 | 20 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/20" target="_blank"></a><br> |
