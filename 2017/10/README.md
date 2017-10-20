@@ -25,9 +25,9 @@
 | 15 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/15" target="_blank">参见代码</a><br>103：两只完全相同的宠物 |
 | 16 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/16" target="_blank">参见代码</a><br>104：简化 equals() 方法的重写(EqualsBuilder) |
 | 17 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/17" target="_blank">参见代码</a><br>105：重新计算对象的哈希吗（重写hashCode()） |
-| 18 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/18" target="_blank"></a><br> |
-| 19 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/19" target="_blank"></a><br> |
-| 20 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/20" target="_blank"></a><br> |
+| 18 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/18" target="_blank">参见代码</a><br>106：简化 hashCode() 方法的重写 |
+| 19 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/19" target="_blank">参见代码</a><br>107：使用字符串输出对象（重写 toString()） |
+| 20 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/20" target="_blank">参见代码</a><br> |
 | 21 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/21" target="_blank"></a><br> |
 | 22 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/22" target="_blank"></a><br> |
 | 23 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/23" target="_blank"></a><br> |
