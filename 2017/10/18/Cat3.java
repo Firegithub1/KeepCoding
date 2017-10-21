@@ -23,14 +23,15 @@ public class Cat3 {
         if (obj == null) {
             return false;
         }
-        if (getClass() != obj.getClass()) {
+        if (getClass() != obj.getClass()) { // 如果两个猫咪的类型不同则不同
             return false;
         }
         Cat3 cat = (Cat3) obj;
         return new EqualsBuilder().append(name, cat.name).append(age, cat.age).append(weight, cat.weight).append(color, cat.color).isEquals();
+        // 比较猫咪的属性
     }
 
-    public int hashCode() {
+    public int hashCode() { // 利用 equals() 方法中使用的属性重写 hashCode() 方法
         return new HashCodeBuilder().append(name).append(age).append(weight).append(color).toHashCode();
     }
 

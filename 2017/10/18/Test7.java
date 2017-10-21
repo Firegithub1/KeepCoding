@@ -1,7 +1,7 @@
 import java.awt.*;
 
 /**
- * 106：简化 hashCode() 方法的重写
+ * 106：简化 hashCode() 方法的重写（HashCodeBuilder 类）
  */
 
 

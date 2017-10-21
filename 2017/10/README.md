@@ -23,11 +23,11 @@
 | 13 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/13" target="_blank">参见代码</a><br>100：计算集合图形的面积（抽象类和方法） |
 | 14 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/14" target="_blank">参见代码</a><br>101：提高产品质量的方法（封装）<br>102：简单的汽车销售商场（多态） |
 | 15 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/15" target="_blank">参见代码</a><br>103：两只完全相同的宠物 |
-| 16 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/16" target="_blank">参见代码</a><br>104：简化 equals() 方法的重写(EqualsBuilder) |
-| 17 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/17" target="_blank">参见代码</a><br>105：重新计算对象的哈希吗（重写hashCode()） |
-| 18 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/18" target="_blank">参见代码</a><br>106：简化 hashCode() 方法的重写 |
+| 16 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/16" target="_blank">参见代码</a><br>104：简化 equals() 方法的重写(EqualsBuilder 类) |
+| 17 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/17" target="_blank">参见代码</a><br>105：重新计算对象的哈希吗（重写 hashCode()） |
+| 18 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/18" target="_blank">参见代码</a><br>106：简化 hashCode() 方法的重写（HashCodeBuilder 类） |
 | 19 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/19" target="_blank">参见代码</a><br>107：使用字符串输出对象（重写 toString()） |
-| 20 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/20" target="_blank">参见代码</a><br> |
+| 20 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/20" target="_blank">参见代码</a><br>108：简化 toString() 方法的重写（ToStringBuilder 类）<br>109：Java对象的假克隆（错误的克隆方法） |
 | 21 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/21" target="_blank"></a><br> |
 | 22 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/22" target="_blank"></a><br> |
 | 23 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/23" target="_blank"></a><br> |

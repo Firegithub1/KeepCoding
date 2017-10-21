@@ -1,4 +1,4 @@
-# 两只完全相同的宠物
+# 简化 equals() 方法的重写(EqualsBuilder 类)
 
 运行结果：
 

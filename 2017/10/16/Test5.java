@@ -1,5 +1,5 @@
 /**
- * 104：简化 equals() 方法的重写(EqualsBuilder)
+ * 104：简化 equals() 方法的重写(EqualsBuilder 类)
  */
 
 import java.awt.*;

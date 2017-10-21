@@ -1,4 +1,4 @@
-# 106：简化 hashCode() 方法的重写
+# 简化 hashCode() 方法的重写（HashCodeBuilder 类）
 
 运行结果：
 
