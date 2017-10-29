@@ -35,7 +35,7 @@
 | 25 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/25" target="_blank">参见代码</a><br>114：transient 关键字的应用<br>115：使用 sort() 方法排序（Arrays.sort()） |
 | 26 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/26" target="_blank">参见代码</a><br>116：简化 compareTo() 方法的重写（CompareToBuilder 类）<br>117：策略模式的简单应用（接口或者抽象类） |
 | 27 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/27" target="_blank">参见代码</a><br>118：适配器模式的简单应用 |
-| 28 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/28" target="_blank">参见代码</a><br> |
-| 29 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/29" target="_blank"></a><br> |
+| 28 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/28" target="_blank">参见代码</a><br>119：普通内部类的简单应用 |
+| 29 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/29" target="_blank">参见代码</a><br>120：局部内部类的简单应用<br>121：匿名内部类的简单应用 |
 | 30 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/30" target="_blank"></a><br> |
 | 31 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/31" target="_blank"></a><br> |
