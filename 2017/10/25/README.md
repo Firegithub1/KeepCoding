@@ -40,8 +40,6 @@ public class Employee implements Comparable<Employee>{}
 
 在 Employee 中必须要实现接口中定义的 compareTo() 方法。
 
-
-
 运行结果：
 
 ```java
