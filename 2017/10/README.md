@@ -38,4 +38,4 @@
 | 28 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/28" target="_blank">参见代码</a><br>119：普通内部类的简单应用 |
 | 29 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/29" target="_blank">参见代码</a><br>120：局部内部类的简单应用<br>121：匿名内部类的简单应用 |
 | 30 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/30" target="_blank">参见代码</a><br>122：静态内部类的简单应用（一次遍历求最大最小值）<br>123：新建无法返回的线程 |
-| 31 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/31" target="_blank">参见代码</a><br>124：查看线程的运行状态（不是很懂） |
+| 31 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/10/31" target="_blank">参见代码</a><br>124：查看线程的运行状态（不是很懂）<br>125：查看 JVM 中的线程名 |

@@ -12,17 +12,15 @@
 ```
 
 
-# 使用 sort() 方法排序（Arrays.sort()）
+# 查看 JVM 中的线程名
 
 运行结果：
 
 ```java
-排序前：
-编号：3，姓名：Java，年龄：1
-编号：2，姓名：C++，年龄：2
-编号：1，姓名：JavaScript，年龄：3
-排序后：
-编号：1，姓名：JavaScript，年龄：3
-编号：2，姓名：C++，年龄：2
-编号：3，姓名：Java，年龄：1
+system线程组：Reference Handler
+system线程组：Finalizer
+system线程组：Signal Dispatcher
+system线程组：Attach Listener
+main线程组：main
+main线程组：Monitor Ctrl-Break
 ```
