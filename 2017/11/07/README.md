@@ -1,20 +1,12 @@
-# 
+# 使用重入锁实现线程同步
 
 运行结果：
 
-```java
+<img src="http://image.renkaigis.com/keepcoding/2017110701.png">
 
-```
-
-<img src="http://image.renkaigis.com/keepcoding/2017110201.png">
-
-# 
+# 使用线程局部变量实现线程同步
 
 运行结果：
 
-```java
-
-```
-
-<img src="http://image.renkaigis.com/keepcoding/2017110201.png">
+<img src="http://image.renkaigis.com/keepcoding/2017110702.png">
 
