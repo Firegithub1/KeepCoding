@@ -10,10 +10,10 @@
 | :---: | :---: | :--- |
 | 01 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/01" target="_blank">参见代码</a><br>126：查看和修改线程名称 |
 | 02 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/02" target="_blank">参见代码</a><br>127：查看和修改线程优先级 |
-| 03 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/03" target="_blank"></a><br> |
-| 04 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/04" target="_blank"></a><br> |
-| 05 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/05" target="_blank"></a><br> |
-| 06 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/06" target="_blank"></a><br> |
+| 03 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/03" target="_blank">参见代码</a><br>128：使用守护线程（Daemon Thread）<br>129：休眠当前线程（Thread.sleep()） |
+| 04 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/04" target="_blank">参见代码</a><br>130：终止指定线程<br>131：线程的插队运行（join()） |
+| 05 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/05" target="_blank">参见代码</a><br>132：非同步的数据读写(会冲突)<br>133：使用方法实现线程同步 |
+| 06 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/06" target="_blank">参见代码</a><br> |
 | 07 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/07" target="_blank"></a><br> |
 | 08 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/08" target="_blank"></a><br> |
 | 09 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/09" target="_blank"></a><br> |

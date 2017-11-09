@@ -1,20 +1,23 @@
-# 
+# 终止指定线程
+
+运行结果：
+
+<img src="http://image.renkaigis.com/keepcoding/2017110401.png">
+
+# 线程的插队运行（join()）
 
 运行结果：
 
 ```java
-
+正常情况：1号车出发！
+紧急情况：1号车出发！
+紧急情况：2号车出发！
+紧急情况：3号车出发！
+紧急情况：4号车出发！
+紧急情况：5号车出发！
+正常情况：2号车出发！
+正常情况：3号车出发！
+正常情况：4号车出发！
+正常情况：5号车出发！
 ```
-
-<img src="http://image.renkaigis.com/keepcoding/2017110201.png">
-
-# 
-
-运行结果：
-
-```java
-
-```
-
-<img src="http://image.renkaigis.com/keepcoding/2017110201.png">
 
