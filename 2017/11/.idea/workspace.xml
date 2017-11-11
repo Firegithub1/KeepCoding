@@ -13,57 +13,7 @@
     <SUITE FILE_PATH="coverage/11$SynchronizedBankFrame.coverage" NAME="SynchronizedBankFrame Coverage Results" MODIFIED="1510023755196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="136">
-                <caret line="17" column="104" lean-forward="false" selection-start-line="17" selection-start-column="104" selection-end-line="17" selection-end-column="104" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TransactionFrame.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08/TransactionFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="169" column="35" lean-forward="true" selection-start-line="169" selection-start-column="35" selection-end-line="169" selection-end-column="35" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="imports" expanded="true" />
-                <element signature="e#2115#2116#0" expanded="true" />
-                <element signature="e#2178#2179#0" expanded="true" />
-                <element signature="e#4351#4352#0" expanded="true" />
-                <element signature="e#4389#4390#0" expanded="true" />
-                <element signature="e#4440#4441#0" expanded="true" />
-                <element signature="e#4486#4487#0" expanded="true" />
-                <element signature="e#4524#4525#0" expanded="true" />
-                <element signature="e#4562#4563#0" expanded="true" />
-                <element signature="e#5261#5262#0" expanded="true" />
-                <element signature="e#5305#5306#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="136">
-                <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -109,8 +59,8 @@
         <option value="$PROJECT_DIR$/07/Bank2.java" />
         <option value="$PROJECT_DIR$/07/Transfer2.java" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/08/README.md" />
         <option value="$PROJECT_DIR$/08/TransactionFrame.java" />
+        <option value="$PROJECT_DIR$/08/README.md" />
       </list>
     </option>
   </component>
@@ -149,11 +99,6 @@
             <path>
               <item name="11" type="b2602c69:ProjectViewProjectNode" />
               <item name="11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="11" type="462c0819:PsiDirectoryNode" />
-              <item name="08" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -396,16 +341,15 @@
       <workItem from="1509618228994" duration="4463000" />
       <workItem from="1509971982497" duration="11345000" />
       <workItem from="1510193035161" duration="136000" />
-      <workItem from="1510229952850" duration="6358000" />
+      <workItem from="1510229952850" duration="6453000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23182000" />
+    <option name="totallyTimeSpent" value="23277000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -415,9 +359,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292011" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292011" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26285347" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -715,32 +659,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="136">
-            <caret line="17" column="104" lean-forward="false" selection-start-line="17" selection-start-column="104" selection-end-line="17" selection-end-column="104" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="136">
-            <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08/TransactionFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="169" column="35" lean-forward="true" selection-start-line="169" selection-start-column="35" selection-end-line="169" selection-end-column="35" />
+        <state relative-caret-position="98">
+          <caret line="156" column="5" lean-forward="true" selection-start-line="156" selection-start-column="5" selection-end-line="156" selection-end-column="5" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
@@ -755,6 +677,28 @@
             <element signature="e#5261#5262#0" expanded="true" />
             <element signature="e#5305#5306#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="17" column="104" lean-forward="false" selection-start-line="17" selection-start-column="104" selection-end-line="17" selection-end-column="104" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
