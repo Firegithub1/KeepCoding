@@ -1,20 +1,5 @@
-# 
+# 142：新建有返回值的线程
 
 运行结果：
 
-```java
-
-```
-
-<img src="http://image.renkaigis.com/keepcoding/2017110201.png">
-
-# 
-
-运行结果：
-
-```java
-
-```
-
-<img src="http://image.renkaigis.com/keepcoding/2017110201.png">
-
+<img src="http://image.renkaigis.com/keepcoding/2017111101.png">

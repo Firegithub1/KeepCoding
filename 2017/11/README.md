@@ -16,19 +16,19 @@
 | 06 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/06" target="_blank">参见代码</a><br>134：使用代码块实现线程同步<br>135：使用特殊域变量实现线程同步（volatile） |
 | 07 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/07" target="_blank">参见代码</a><br>136：使用重入锁实现线程同步<br>137：使用线程局部变量实现线程同步 |
 | 08 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/08" target="_blank">参见代码</a><br>138：简单的线程通信<br> |
-| 09 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/09" target="_blank"></a><br> |
-| 10 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/10" target="_blank"></a><br> |
-| 11 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/11" target="_blank"></a><br> |
-| 12 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/12" target="_blank"></a><br> |
-| 13 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/13" target="_blank"></a><br> |
-| 14 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/14" target="_blank"></a><br> |
-| 15 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/15" target="_blank"></a><br> |
-| 16 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/16" target="_blank"></a><br> |
-| 17 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/17" target="_blank"></a><br> |
-| 18 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/18" target="_blank"></a><br> |
-| 19 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/19" target="_blank"></a><br> |
-| 20 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/20" target="_blank"></a><br> |
-| 21 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/21" target="_blank"></a><br> |
+| 09 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/09" target="_blank">参见代码</a><br>139：简单的线程死锁<br>140：解决线程的死锁问题 |
+| 10 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/10" target="_blank">参见代码</a><br>141：使用阻塞队列实现线程同步<br> |
+| 11 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/11" target="_blank">参见代码</a><br>线程这一块一直都是似懂非懂的，应该不算重要的吧…<br>142：新建有返回值的线程 |
+| 12 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/12" target="_blank">参见代码</a><br><a href="http://blog.renkaigis.com/posts/Mine/2017-11-20-experiment-in-Kunming-Dianchi">云南出差</a>，虽然没有忘记自己的任务。但还是不想做，出差后统一还债补齐！<br>143：使用线程池优化多线程编程<br>144：Object 类中线程相关的方法 |
+| 13 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/13" target="_blank">参见代码</a><br>145：哲学家就餐问题（比较复杂） |
+| 14 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/14" target="_blank">参见代码</a><br> |
+| 15 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/15" target="_blank"></a><br> |
+| 16 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/16" target="_blank"></a><br> |
+| 17 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/17" target="_blank"></a><br> |
+| 18 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/18" target="_blank"></a><br> |
+| 19 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/19" target="_blank"></a><br> |
+| 20 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/20" target="_blank"></a><br> |
+| 21 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/21" target="_blank"></a><br> |
 | 22 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/22" target="_blank"></a><br> |
 | 23 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/23" target="_blank"></a><br> |
 | 24 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/24" target="_blank"></a><br> |
