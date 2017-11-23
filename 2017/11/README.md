@@ -21,8 +21,8 @@
 | 11 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/11" target="_blank">参见代码</a><br>线程这一块一直都是似懂非懂的，应该不算重要的吧…<br>142：新建有返回值的线程 |
 | 12 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/12" target="_blank">参见代码</a><br><a href="http://blog.renkaigis.com/posts/Mine/2017-11-20-experiment-in-Kunming-Dianchi">云南出差</a>，虽然没有忘记自己的任务。但还是不想做，出差后统一还债补齐！<br>143：使用线程池优化多线程编程<br>144：Object 类中线程相关的方法 |
 | 13 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/13" target="_blank">参见代码</a><br>145：哲学家就餐问题（比较复杂） |
-| 14 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/14" target="_blank">参见代码</a><br> |
-| 15 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/15" target="_blank"></a><br> |
+| 14 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/14" target="_blank">参见代码</a><br>146：使用信号量实现线程同步<br>147：使用原子变量实现线程同步 |
+| 15 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/15" target="_blank">参见代码</a><br>148：使用事件分配线程更新 Swing 控件<br>149：使用 SwingWorker 类完成耗时操作 |
 | 16 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/16" target="_blank"></a><br> |
 | 17 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/17" target="_blank"></a><br> |
 | 18 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/18" target="_blank"></a><br> |
