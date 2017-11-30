@@ -1,3 +1,5 @@
+<link rel="shortcut icon" href="http://a.fsdn.com/con/img/sftheme/favicon.ico">
+
 # 154：按继承层次对类排序
 
 <img src="http://image.renkaigis.com/keepcoding/2017111801.png">
