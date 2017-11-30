@@ -23,18 +23,18 @@
 | 13 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/13" target="_blank">参见代码</a><br>145：哲学家就餐问题（比较复杂） |
 | 14 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/14" target="_blank">参见代码</a><br>146：使用信号量实现线程同步<br>147：使用原子变量实现线程同步 |
 | 15 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/15" target="_blank">参见代码</a><br>148：使用事件分配线程更新 Swing 控件<br>149：使用 SwingWorker 类完成耗时操作 |
-| 16 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/16" target="_blank"></a><br> |
-| 17 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/17" target="_blank"></a><br> |
-| 18 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/18" target="_blank"></a><br> |
-| 19 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/19" target="_blank"></a><br> |
-| 20 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/20" target="_blank"></a><br> |
-| 21 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/21" target="_blank"></a><br> |
-| 22 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/22" target="_blank"></a><br> |
-| 23 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/23" target="_blank"></a><br> |
-| 24 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/24" target="_blank"></a><br> |
-| 25 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/25" target="_blank"></a><br> |
-| 26 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/26" target="_blank"></a><br> |
-| 27 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/27" target="_blank"></a><br> |
-| 28 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/28" target="_blank"></a><br> |
-| 29 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/29" target="_blank"></a><br> |
-| 30 |  | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/30" target="_blank"></a><br> |
+| 16 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/16" target="_blank">参见代码</a><br>150：实例化 Class 类的 5 种方法<br>151：获得 Class 对象表示实体的名称 |
+| 17 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/17" target="_blank">参见代码</a><br>152：查看类的声明<br>153：查看类的成员 |
+| 18 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/18" target="_blank">参见代码</a><br>154：按继承层次对类排序（没看懂这个代码到底在干嘛！！）<br>155：查看内部类信息 |
+| 19 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/19" target="_blank">参见代码</a><br>156：动态设置类的私有域<br>157：动态调用类中的方法 |
+| 20 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/20" target="_blank">参见代码</a><br>158：动态实例化类<br>159：创建长度可变的数组 |
+| 21 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/21" target="_blank">参见代码</a><br>160：利用反射重写 toString() 方法<br>161：反射与动态代理 |
+| 22 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/22" target="_blank">参见代码</a><br><br> |
+| 23 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/23" target="_blank">参见代码</a><br><br> |
+| 24 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/24" target="_blank">参见代码</a><br><br> |
+| 25 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/25" target="_blank">参见代码</a><br><br> |
+| 26 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/26" target="_blank">参见代码</a><br><br> |
+| 27 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/27" target="_blank">参见代码</a><br><br> |
+| 28 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/28" target="_blank">参见代码</a><br><br> |
+| 29 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/29" target="_blank">参见代码</a><br><br> |
+| 30 | ✔ | <a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/11/30" target="_blank">参见代码</a><br><br> |
