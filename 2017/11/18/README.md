@@ -16,6 +16,8 @@ class javax.swing.JPanel
 
 <img src="http://image.renkaigis.com/keepcoding/2017111802.png">
 
+![image](http://image.renkaigis.com/keepcoding/2017111802.png)
+
 运行结果：
 
 ```java
