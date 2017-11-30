@@ -1,6 +1,8 @@
+<html>
 <head>
 <link rel="shortcut icon" href="http://a.fsdn.com/con/img/sftheme/favicon.ico">
 </head>
+</html>
 
 # 154：按继承层次对类排序
 
