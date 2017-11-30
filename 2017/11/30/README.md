@@ -1,20 +1,14 @@
-# 
+# 181：遍历枚举接口的元素
 
-运行结果：
+<img src="http://image.renkaigis.com/keepcoding/2017113001.png">
 
-```java
-
-```
-
-<img src="http://image.renkaigis.com/keepcoding/2017112001.png">
-
-# 
-
-运行结果：
+**运行结果：**
 
 ```java
-
+在向量中增加元素：0
+在向量中增加元素：1
+在向量中增加元素：2
+获得向量中的元素：0
+获得向量中的元素：1
+获得向量中的元素：2
 ```
-
-<img src="http://image.renkaigis.com/keepcoding/2017112001.png">
-
