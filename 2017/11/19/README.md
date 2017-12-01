@@ -2,7 +2,7 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2017111901.png">
 
-运行结果：
+**运行结果：**
 
 ```java
 类的标准名称：Student
@@ -20,7 +20,7 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2017111902.png">
 
-运行结果：
+**运行结果：**
 
 ```java
 调用 Math 类的静态方法 sin()

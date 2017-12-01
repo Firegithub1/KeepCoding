@@ -11,7 +11,7 @@ LinkedBlockingQueue 类的常用方法如下表：
 | size() | 返回队列中的元素个数 |
 | take() | 移除并返回队头元素，如果队列空则阻塞 |
 
-运行结果：
+**运行结果：**
 
 <img src="http://image.renkaigis.com/keepcoding/2017111001.png">
 

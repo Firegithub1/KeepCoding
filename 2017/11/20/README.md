@@ -2,7 +2,7 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2017112001.png">
 
-运行结果：
+**运行结果：**
 
 ```java
 使用反射创建 File 对象
@@ -14,7 +14,7 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2017112002.png">
 
-运行结果：
+**运行结果：**
 
 ```java
 整型数组原始长度是：10

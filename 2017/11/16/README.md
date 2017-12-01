@@ -2,7 +2,7 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2017111601.png">
 
-运行结果：
+**运行结果：**
 
 ```java
 第 1 种方法：Object.getClass()
@@ -19,7 +19,7 @@ double
 
 <img src="http://image.renkaigis.com/keepcoding/2017111602.png">
 
-运行结果：
+**运行结果：**
 
 ```java
 非数组引用类型的名称：java.util.Date

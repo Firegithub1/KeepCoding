@@ -2,7 +2,7 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2017111701.png">
 
-运行结果：
+**运行结果：**
 
 ```java
 类的标准名称：java.util.ArrayList
@@ -21,7 +21,7 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2017111702.png">
 
-运行结果：
+**运行结果：**
 
 ```java
 类的标准名称：java.util.ArrayList

@@ -2,7 +2,7 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2017112101.png">
 
-运行结果：
+**运行结果：**
 
 ```java
 包名：java.lang	类名：Object
@@ -25,7 +25,7 @@ public final native void java.lang.Object.notifyAll()
 
 <img src="http://image.renkaigis.com/keepcoding/2017112102.png">
 
-运行结果：
+**运行结果：**
 
 ```java
 不使用代理方式：

@@ -6,7 +6,7 @@ yield() 方法是 Thread 类的静态方法，用来暂停当前正在执行的�
 public static void yield()
 ```
 
-运行结果：
+**运行结果：**
 
 <img src="http://image.renkaigis.com/keepcoding/2017110801.png">
 

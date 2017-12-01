@@ -2,7 +2,7 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2017111501.png">
 
-运行结果：
+**运行结果：**
 
 <img src="http://image.renkaigis.com/keepcoding/2017111502.png">
 
@@ -10,7 +10,7 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2017111504.png">
 
-运行结果：
+**运行结果：**
 
 <img src="http://image.renkaigis.com/keepcoding/2017111503.png">
 

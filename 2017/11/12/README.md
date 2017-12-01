@@ -1,6 +1,6 @@
 # 143：使用线程池优化多线程编程
 
-运行结果：
+**运行结果：**
 
 ```java
 独立运行 1000 个线程所占用的内存：1363536字节
@@ -25,7 +25,7 @@ Object 类中 notify()、notifyAll() 和 wait() 方法是用来控制线程的�
 
 wait()、notify() 和 notifyAll() 这 3 个方法要与 synchronized 关键字一起使用，并且他们都是与对象监视器有关的。当前线程必须要拥有此对象监视器，否则会出现 IllegalMonitorStateException 异常。
 
-运行结果：
+**运行结果：**
 
 <img src="http://image.renkaigis.com/keepcoding/2017111201.png">
 

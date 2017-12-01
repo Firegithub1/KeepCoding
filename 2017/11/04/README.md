@@ -1,12 +1,12 @@
 # 终止指定线程
 
-运行结果：
+**运行结果：**
 
 <img src="http://image.renkaigis.com/keepcoding/2017110401.png">
 
 # 线程的插队运行（join()）
 
-运行结果：
+**运行结果：**
 
 ```java
 正常情况：1号车出发！
