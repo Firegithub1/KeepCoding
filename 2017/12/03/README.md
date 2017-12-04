@@ -2,6 +2,8 @@
 
 <img src="http://image.renkaigis.com/keepcoding/201712001.png">
 
+> 实例186需要引入：mysql-connector-java-5.1.6-bin.jar包和commons-dbutils-1.3.jar包。
+
 **运行结果：**
 
 ```java
