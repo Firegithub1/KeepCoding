@@ -15,7 +15,8 @@
       <sourceFolder url="file://$MODULE_DIR$/06" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="dbutils" level="project" />
   </component>
 </module>
