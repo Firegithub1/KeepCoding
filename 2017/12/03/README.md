@@ -1,6 +1,6 @@
 # 186：泛型方法与数据查询
 
-<img src="http://image.renkaigis.com/keepcoding/201712001.png">
+<img src="http://image.renkaigis.com/keepcoding/2017120301.png">
 
 > 实例186需要引入：mysql-connector-java-5.1.6-bin.jar包和commons-dbutils-1.3.jar包。
 
