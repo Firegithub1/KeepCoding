@@ -1,17 +1,16 @@
-# 187：泛型化方法与最小值
+# 189：使用通配符增强泛型
 
-<img src="http://image.renkaigis.com/keepcoding/2017120401.png">
+<img src="http://image.renkaigis.com/keepcoding/2017120501.png">
 
 **运行结果：**
 
 ```java
-这些书都很棒哦：
-Java 从入门到放弃
-Java 编程规范
-Java 视频
-细说 Java
-按名称排序的第一本书：
-Java 从入门到放弃
+整型列表的元素：
+[1, 2, 3]
+整型列表的中间数：2
+浮点列表的元素：
+[1.1, 2.3, 3.4]
+浮点列表的中间数：2.3
 ```
 
 # 

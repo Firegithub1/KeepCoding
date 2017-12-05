@@ -10,7 +10,7 @@
 | 02 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/02" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/02" target="_blank">参见代码</a><br>184：使用泛型实现栈结构<br>185：自定义泛型化数组类 |
 | 03 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/03" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/03" target="_blank">参见代码</a><br>186：泛型方法与数据查询 |
 | 04 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/04" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/04" target="_blank">参见代码</a><br>187：泛型化方法与最小值<br>188：泛型化接口与最大值 |
-| 05 |  | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/05" target="_blank"></a><a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/05" target="_blank"></a><br> |
+| 05 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/05" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/05" target="_blank">参见代码</a><br>189：使用通配符增强泛型<br>190：泛型化的折半查找法 |
 | 06 |  | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/06" target="_blank"></a><a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/06" target="_blank"></a><br> |
 | 07 |  | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/07" target="_blank"></a><a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/07" target="_blank"></a><br> |
 | 08 |  | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/08" target="_blank"></a><a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/08" target="_blank"></a><br> |
