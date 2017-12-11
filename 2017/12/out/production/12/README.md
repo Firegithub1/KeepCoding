@@ -1,21 +1,19 @@
-# 189：使用通配符增强泛型
+# 198：查看本地时区（SimpleDateFormat 与 TimeZone 类的使用）
 
-<img src="http://image.renkaigis.com/keepcoding/2017120501.png">
+<img src="http://image.renkaigis.com/keepcoding/2017121001.png">
 
 **运行结果：**
 
 ```java
-整型列表的元素：
-[1, 2, 3]
-整型列表的中间数：2
-浮点列表的元素：
-[1.1, 2.3, 3.4]
-浮点列表的中间数：2.3
+当前注记所在时区：中国标准时间
+中国台北所在时区：中国标准时间
+时区的完整名称：中国夏令时
+时区的缩写名称：CDT
 ```
 
-# 
+# 199：简单的时区转换工具（SimpleDateFormat 与 TimeZone 类的使用）
 
-<img src="http://image.renkaigis.com/keepcoding/2017120101.png">
+<img src="http://image.renkaigis.com/keepcoding/2017121002.png">
 
 **运行结果：**
 

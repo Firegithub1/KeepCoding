@@ -1,19 +1,8 @@
-# 
+# 193：简单的模拟时钟（Calendar 类的使用）
 
-<img src="http://image.renkaigis.com/keepcoding/2017120101.png">
+<img src="http://image.renkaigis.com/keepcoding/2017120701.png">
 
-**运行结果：**
+**运行结果：（这个钟是真的丑！）**
 
-```java
+<img src="http://image.renkaigis.com/keepcoding/2017120702.png">
 
-```
-
-# 
-
-<img src="http://image.renkaigis.com/keepcoding/2017120101.png">
-
-**运行结果：**
-
-```java
-
-```
