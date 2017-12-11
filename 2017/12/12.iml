@@ -14,6 +14,27 @@
       <sourceFolder url="file://$MODULE_DIR$/07" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/06" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/16" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/22" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/23" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/24" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/25" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/26" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/27" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/28" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/29" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/30" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/31" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
