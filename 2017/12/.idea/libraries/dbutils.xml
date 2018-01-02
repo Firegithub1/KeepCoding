@@ -8,6 +8,7 @@
       <root url="jar://D:/Desktop/dbutils/commons-beanutils-1.8.3.jar!/" />
       <root url="jar://D:/Desktop/dbutils/commons-collections-3.2.1.jar!/" />
       <root url="jar://D:/Desktop/dbutils/commons-logging-1.1.1.jar!/" />
+      <root url="jar://D:/Desktop/dbutils/commons-codec-1.4.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

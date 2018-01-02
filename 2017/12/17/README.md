@@ -2,6 +2,8 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2017121701.png">
 
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/17" target="_blank">参见程序源代码</a>
+
 **运行结果：**
 
 <img src="http://image.renkaigis.com/keepcoding/2017121702.png">
@@ -9,6 +11,8 @@
 # 216：数组元素的增加（Commons Lang 组件简介）
 
 <img src="http://image.renkaigis.com/keepcoding/2017121703.png">
+
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/17" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 

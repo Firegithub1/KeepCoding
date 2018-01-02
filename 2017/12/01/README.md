@@ -2,6 +2,8 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2017120101.png">
 
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/01" target="_blank">参见程序源代码</a>
+
 **运行结果：**
 
 <img src="http://image.renkaigis.com/keepcoding/2017120102.png">
@@ -10,6 +12,8 @@
 # 183：自定义非泛型栈结构
 
 <img src="http://image.renkaigis.com/keepcoding/2017120104.png">
+
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/01" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 

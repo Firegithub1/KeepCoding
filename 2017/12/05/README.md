@@ -2,6 +2,8 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2017120501.png">
 
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/05" target="_blank">参见程序源代码</a>
+
 **运行结果：**
 
 ```java
@@ -16,6 +18,8 @@
 # 190：泛型化的折半查找法
 
 <img src="http://image.renkaigis.com/keepcoding/2017120502.png">
+
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/05" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 

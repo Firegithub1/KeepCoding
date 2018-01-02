@@ -2,6 +2,8 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2017122001.png">
 
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/20" target="_blank">参见程序源代码</a>
+
 **运行结果：**
 
 ```java
@@ -20,6 +22,8 @@ Range[-5,5]
 # 222：描述统计学应用（Commons Math 组件简介）
 
 <img src="http://image.renkaigis.com/keepcoding/2017122002.png">
+
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/20" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 

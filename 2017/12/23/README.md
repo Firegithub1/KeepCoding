@@ -2,6 +2,8 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2017122301.png">
 
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/23" target="_blank">参见程序源代码</a>
+
 **运行结果：**
 
 ```java
@@ -14,6 +16,8 @@
 # 228：简化文件（夹）删除（Commons IO 组件简介）
 
 <img src="http://image.renkaigis.com/keepcoding/2017122302.png">
+
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/23" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 

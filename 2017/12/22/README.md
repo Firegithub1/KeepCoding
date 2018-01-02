@@ -2,6 +2,8 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2017122201.png">
 
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/22" target="_blank">参见程序源代码</a>
+
 **运行结果：**
 
 ```java
@@ -22,6 +24,8 @@
 # 226：复数的常见运算（Commons Math 组件简介）
 
 <img src="http://image.renkaigis.com/keepcoding/2017122202.png">
+
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/22" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 

@@ -4,6 +4,8 @@
 
 > 实例186需要引入：mysql-connector-java-5.1.6-bin.jar包和commons-dbutils-1.3.jar包。
 
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/04" target="_blank">参见程序源代码</a>
+
 **运行结果：**
 
 ```java

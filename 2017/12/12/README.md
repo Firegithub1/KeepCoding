@@ -2,6 +2,8 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2017121201.png">
 
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/12" target="_blank">参见程序源代码</a>
+
 **运行结果：**
 
 ```java
@@ -18,6 +20,8 @@
 # 203：从控制台输入密码（System 类的使用）
 
 <img src="http://image.renkaigis.com/keepcoding/2017121202.png">
+
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/12" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 

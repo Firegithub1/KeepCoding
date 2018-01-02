@@ -2,6 +2,8 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2017121801.png">
 
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/18" target="_blank">参见程序源代码</a>
+
 **运行结果：**
 
 ```java
@@ -18,6 +20,8 @@
 # 218：生成随机字符串（Commons Lang 组件简介）
 
 <img src="http://image.renkaigis.com/keepcoding/2017121802.png">
+
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/18" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 

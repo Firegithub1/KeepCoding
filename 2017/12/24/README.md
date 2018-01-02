@@ -4,6 +4,8 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2017122401.png">
 
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/24" target="_blank">参见程序源代码</a>
+
 **运行结果：**
 
 ```java
@@ -27,6 +29,8 @@ d:\desktop\Java4\mysql-connector-java-5.1.6-bin.jar
 # 230：简化文件（夹）排序（Commons IO 组件简介）
 
 <img src="http://image.renkaigis.com/keepcoding/2017122402.png">
+
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/24" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 

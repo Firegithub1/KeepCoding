@@ -2,6 +2,8 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2017120201.png">
 
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/02" target="_blank">参见程序源代码</a>
+
 **运行结果：**
 
 ```java
@@ -18,6 +20,8 @@ Java 从入门到放弃
 # 185：自定义泛型化数组类
 
 <img src="http://image.renkaigis.com/keepcoding/2017120202.png">
+
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/02" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 

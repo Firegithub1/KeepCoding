@@ -31,9 +31,13 @@
 | 23 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/23" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/23" target="_blank">参见代码</a><br>227：T 分布常用运算（Commons Math 组件简介）<br>228：简化文件（夹）删除（Commons IO 组件简介） |
 | 24 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/24" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/24" target="_blank">参见代码</a><br>229：简化文件（夹）复制（Commons IO 组件简介）<br>230：简化文件（夹）排序（Commons IO 组件简介） |
 | 25 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/25" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/25" target="_blank">参见代码</a><br>231：简化文件（夹）过滤（Commons IO 组件简介）<br>232：简化文件的读写操作（Commons IO 组件简介） |
-| 26 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/26" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/26" target="_blank">参见代码</a><br><br> |
-| 27 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/27" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/27" target="_blank">参见代码</a><br><br> |
-| 28 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/28" target="_blank"></a><a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/28" target="_blank"></a><br><br> |
-| 29 |  | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/29" target="_blank"></a><a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/29" target="_blank"></a><br><br> |
-| 30 |  | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/30" target="_blank"></a><a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/30" target="_blank"></a><br><br> |
-| 31 |  | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/31" target="_blank"></a><a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/31" target="_blank"></a><br><br> |
+| 26 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/26" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/26" target="_blank">参见代码</a><br>233：设置 JavaBean 简单属性（Commons BeanUtils 组件简介） |
+| 27 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/27" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/27" target="_blank">参见代码</a><br>234：设置 JavaBean 级联属性（Commons BeanUtils 组件简介） |
+| 28 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/28" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/28" target="_blank">参见代码</a><br>235：动态生成 JavaBean（Commons BeanUtils 组件简介）<br>236：复制 JavaBean 属性（Commons BeanUtils 组件简介） |
+| 29 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/29" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/29" target="_blank">参见代码</a><br>237：动态排序 JavaBean（Commons BeanUtils 组件简介）<br>238：优雅的 JDBC 代码（其他 Commons 组件简介） |
+| 30 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/30" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/30" target="_blank">参见代码</a><br>239：结果集与 Bean 列表（其他 Commons 组件简介）<br>240：编写 MD5 查看器（其他 Commons 组件简介） |
+| 31 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2017/12/31" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/31" target="_blank">参见代码</a><br>241：基于 Base64 编码（其他 Commons 组件简介）<br>242：基于 Base64 解码（其他 Commons 组件简介） |
+
+**2017 圆满完结！会看这些非常感慨，不说学到了多少东西，只是这一份坚持就值得为自己鼓掌了！**
+
+**2018 继续努力！**

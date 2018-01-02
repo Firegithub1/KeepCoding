@@ -4,6 +4,8 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2017122101.png">
 
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/21" target="_blank">参见程序源代码</a>
+
 **运行结果：**
 
 ```java
@@ -23,6 +25,8 @@
 # 224：一元线性回归计算（Commons Math 组件简介）
 
 <img src="http://image.renkaigis.com/keepcoding/2017122102.png">
+
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2017/12/21" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 
