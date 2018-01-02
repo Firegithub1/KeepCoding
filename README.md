@@ -6,12 +6,16 @@
 - 计划2017年9月开始，照着别人的代码敲也算。
 - 不能复制粘贴，只能手敲。
 
-## 2017年 KeepCoding 签到
+## 2017 年 KeepCoding 签到
 
-<h3><a href="2017/12">2017年12月 KeepCoding 签到</a></h3>
-<h3><a href="2017/11">2017年11月 KeepCoding 签到</a></h3>
-<h3><a href="2017/10">2017年10月 KeepCoding 签到</a></h3>
-<h3><a href="2017/09">2017年09月 KeepCoding 签到</a></h3>
+<h3><a href="2018/01">2018 年 01 月 KeepCoding 签到</a></h3>
+
+## 2017 年 KeepCoding 签到
+
+<h3><a href="2017/12">2017 年 12 月 KeepCoding 签到</a></h3>
+<h3><a href="2017/11">2017 年 11 月 KeepCoding 签到</a></h3>
+<h3><a href="2017/10">2017 年 10 月 KeepCoding 签到</a></h3>
+<h3><a href="2017/09">2017 年 09 月 KeepCoding 签到</a></h3>
 
 ## 心有猛虎，细嗅蔷薇
 
