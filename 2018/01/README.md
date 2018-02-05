@@ -6,7 +6,7 @@
 
 | 日期 | 签到 | 内容 |
 | :---: | :---: | :--- |
-| 01 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/01/01" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/01" target="_blank">参见代码</a><br><br> |
+| 01 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/01/01" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/01" target="_blank">参见代码</a><br>243：发送简单的 Email（其他 Commons 组件简介）<br>244：发送带附件的 Email（其他 Commons 组件简介） |
 | 02 |  | <a href="http://blog.renkaigis.com/KeepCoding/2018/01/02" target="_blank"></a><a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/02" target="_blank"></a><br><br> |
 | 03 |  | <a href="http://blog.renkaigis.com/KeepCoding/2018/01/03" target="_blank"></a><a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/03" target="_blank"></a><br><br> |
 | 04 |  | <a href="http://blog.renkaigis.com/KeepCoding/2018/01/04" target="_blank"></a><a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/04" target="_blank"></a><br><br> |
