@@ -7,10 +7,10 @@
 | 日期 | 签到 | 内容 |
 | :---: | :---: | :--- |
 | 01 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/01/01" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/01" target="_blank">参见代码</a><br>243：发送简单的 Email（其他 Commons 组件简介）<br>244：发送带附件的 Email（其他 Commons 组件简介） |
-| 02 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/01/02" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/02" target="_blank">参见代码</a><br><br> |
-| 03 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/01/03" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/03" target="_blank">参见代码</a><br><br> |
-| 04 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/01/04" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/04" target="_blank">参见代码</a><br><br> |
-| 05 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/01/05" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/05" target="_blank">参见代码</a><br><br> |
+| 02 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/01/02" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/02" target="_blank">参见代码</a><br>245：读取 XML 文件属性（其他 Commons 组件简介） |
+| 03 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/01/03" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/03" target="_blank">参见代码</a><br>246：控制窗体加载时的位置（设置窗体位置）<br>247：设置窗体在屏幕中的位置（设置窗体位置） |
+| 04 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/01/04" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/04" target="_blank">参见代码</a><br>248：从上次关闭位置启动窗体（设置窗体位置）<br>249：始终在桌面最顶层显示的窗体（设置窗体位置） |
+| 05 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/01/05" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/05" target="_blank">参见代码</a><br>250：始终在桌面最顶层显示的窗体（设置窗体大小）<br>251：始终在桌面最顶层显示的窗体（设置窗体大小） |
 | 06 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/01/06" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/06" target="_blank">参见代码</a><br><br> |
 | 07 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/01/07" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/07" target="_blank">参见代码</a><br><br> |
 | 08 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/01/08" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/08" target="_blank">参见代码</a><br><br> |
