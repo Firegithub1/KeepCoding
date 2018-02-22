@@ -6,7 +6,6 @@ import javax.swing.JPanel;
 /**
  * 带背景的面板组件
  *
- * @author ZhongWei Lee
  */
 public class PaintPanel extends JPanel {
 

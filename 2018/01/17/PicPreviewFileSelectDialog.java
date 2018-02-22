@@ -1,3 +1,7 @@
+/**
+ * 273：支持图片预览的文件选择对话框（对话框）
+ */
+
 import java.awt.BorderLayout;
 import java.awt.Dimension;
 import java.awt.EventQueue;
