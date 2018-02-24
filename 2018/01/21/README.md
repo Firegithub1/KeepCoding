@@ -7,13 +7,3 @@
 **运行结果：**
 
 <img src="http://image.renkaigis.com/keepcoding/2018012102.png">
-
-# 282：淡入淡出的窗体（让窗体更有活力）
-
-<img src="http://image.renkaigis.com/keepcoding/2018012103.png">
-
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/21" target="_blank">参见程序源代码</a>
-
-**运行结果：**
-
-<img src="http://image.renkaigis.com/keepcoding/2018012104.png">
