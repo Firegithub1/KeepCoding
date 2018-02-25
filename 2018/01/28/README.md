@@ -10,7 +10,7 @@
 
 # 293：分割的窗体界面（窗体与控件外观）
 
-<img src="http://image.renkaigis.com/keepcoding/2018012801.png">
+<img src="http://image.renkaigis.com/keepcoding/2018012803.png">
 
 <a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/28" target="_blank">参见程序源代码</a>
 

@@ -1,24 +1,10 @@
-# 
+# 294：圆周运动的窗体（窗体与控件外观）
 
-<img src="http://image.renkaigis.com/keepcoding/2018010201.png">
+<img src="http://image.renkaigis.com/keepcoding/2018012901.png">
 
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/01" target="_blank">参见程序源代码</a>
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/29" target="_blank">参见程序源代码</a>
 
-**运行结果：**
+**运行结果：特效不展示了，总之很酷炫！**
 
-```java
-
-```
-
-# 
-
-<img src="http://image.renkaigis.com/keepcoding/2018010201.png">
-
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/02" target="_blank">参见程序源代码</a>
-
-**运行结果：**
-
-```java
-
-```
+<img src="http://image.renkaigis.com/keepcoding/2018012902.png">
 
