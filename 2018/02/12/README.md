@@ -1,24 +1,22 @@
-# 298：简单的每日提示信息（顶层容器的应用）
+# 317：复选框与单选按钮菜单（菜单控件的应用）
 
-<img src="http://image.renkaigis.com/keepcoding/2018021001.png">
+<img src="http://image.renkaigis.com/keepcoding/2018021201.png">
 
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/02/10" target="_blank">参见程序源代码</a>
-
-**运行结果：**
-
-```java
-
-```
-
-# 244：发送带附件的 Email（其他 Commons 组件简介）
-
-<img src="http://image.renkaigis.com/keepcoding/2018021001.png">
-
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/02/10" target="_blank">参见程序源代码</a>
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/02/12" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 
-```java
+<img src="http://image.renkaigis.com/keepcoding/2018021202.png">
 
-```
+<img src="http://image.renkaigis.com/keepcoding/2018021203.png">
+
+# 318：包含图片的弹出菜单（菜单控件的应用）
+
+<img src="http://image.renkaigis.com/keepcoding/2018021204.png">
+
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/02/12" target="_blank">参见程序源代码</a>
+
+**运行结果：**
+
+<img src="http://image.renkaigis.com/keepcoding/2018021205.png">
 

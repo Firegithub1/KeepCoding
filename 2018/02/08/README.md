@@ -1,24 +1,20 @@
-# 298：简单的每日提示信息（顶层容器的应用）
+# 310：能预览图片的复选框（选择控件的应用）
 
-<img src="http://image.renkaigis.com/keepcoding/2018020101.png">
+<img src="http://image.renkaigis.com/keepcoding/2018020801.png">
 
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/02/01" target="_blank">参见程序源代码</a>
-
-**运行结果：**
-
-```java
-
-```
-
-# 244：发送带附件的 Email（其他 Commons 组件简介）
-
-<img src="http://image.renkaigis.com/keepcoding/2018020101.png">
-
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/02/01" target="_blank">参见程序源代码</a>
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/02/08" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 
-```java
+<img src="http://image.renkaigis.com/keepcoding/2018020802.png">
 
-```
+# 311：简单的投票计数软件（选择控件的应用）
+
+<img src="http://image.renkaigis.com/keepcoding/2018020803.png">
+
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/02/08" target="_blank">参见程序源代码</a>
+
+**运行结果：**
+
+<img src="http://image.renkaigis.com/keepcoding/2018020804.png">
 
