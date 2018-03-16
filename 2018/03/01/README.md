@@ -1,24 +1,20 @@
-# 243：发送简单的 Email（其他 Commons 组件简介）
+# 349：编写中国省市信息树（树控件简单应用）
 
-<img src="http://image.renkaigis.com/keepcoding/2018010101.png">
+<img src="http://image.renkaigis.com/keepcoding/2018030101.png">
 
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/01" target="_blank">参见程序源代码</a>
-
-**运行结果：**
-
-<img src="http://image.renkaigis.com/keepcoding/2018010102.png">
-
-貌似不能发送邮件，目前的我不会弄。
-
-# 244：发送带附件的 Email（其他 Commons 组件简介）
-
-<img src="http://image.renkaigis.com/keepcoding/2018010101.png">
-
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/01/01" target="_blank">参见程序源代码</a>
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/03/01" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 
-```java
+<img src="http://image.renkaigis.com/keepcoding/2018030101.png">
 
-```
+# 349：编写中国省市信息树（树控件简单应用）
+
+<img src="http://image.renkaigis.com/keepcoding/2018030101.png">
+
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/03/01" target="_blank">参见程序源代码</a>
+
+**运行结果：**
+
+<img src="http://image.renkaigis.com/keepcoding/2018030101.png">
 
