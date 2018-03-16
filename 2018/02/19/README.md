@@ -1,24 +1,19 @@
-# 298：简单的每日提示信息（顶层容器的应用）
+# 331：实现自动排序的列表（列表的高级应用）
 
-<img src="http://image.renkaigis.com/keepcoding/2018021001.png">
+<img src="http://image.renkaigis.com/keepcoding/2018021901.png">
 
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/02/10" target="_blank">参见程序源代码</a>
-
-**运行结果：**
-
-```java
-
-```
-
-# 244：发送带附件的 Email（其他 Commons 组件简介）
-
-<img src="http://image.renkaigis.com/keepcoding/2018021001.png">
-
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/02/10" target="_blank">参见程序源代码</a>
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/02/19" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 
-```java
+<img src="http://image.renkaigis.com/keepcoding/2018021902.png">
 
-```
+# 332：列表项的增加与删除（列表的高级应用）
 
+<img src="http://image.renkaigis.com/keepcoding/2018021903.png">
+
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/02/19" target="_blank">参见程序源代码</a>
+
+**运行结果：**
+
+<img src="http://image.renkaigis.com/keepcoding/2018021904.png">

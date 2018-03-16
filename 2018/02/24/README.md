@@ -1,24 +1,22 @@
-# 298：简单的每日提示信息（顶层容器的应用）
+# 341：单元格的粗粒度排序（表格的简单应用）
 
-<img src="http://image.renkaigis.com/keepcoding/2018022001.png">
+<img src="http://image.renkaigis.com/keepcoding/2018022401.png">
 
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/02/20" target="_blank">参见程序源代码</a>
-
-**运行结果：**
-
-```java
-
-```
-
-# 244：发送带附件的 Email（其他 Commons 组件简介）
-
-<img src="http://image.renkaigis.com/keepcoding/2018022001.png">
-
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/02/20" target="_blank">参见程序源代码</a>
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/02/24" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 
-```java
+<img src="http://image.renkaigis.com/keepcoding/2018022402.png">
 
-```
+# 342：实现表格的查找功能（表格的简单应用）
+
+<img src="http://image.renkaigis.com/keepcoding/2018022403.png">
+
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/02/24" target="_blank">参见程序源代码</a>
+
+**运行结果：**
+
+<img src="http://image.renkaigis.com/keepcoding/2018022404.png">
+
+<img src="http://image.renkaigis.com/keepcoding/2018022405.png">
 

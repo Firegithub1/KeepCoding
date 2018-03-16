@@ -1,24 +1,22 @@
-# 298：简单的每日提示信息（顶层容器的应用）
+# 337：表头与列的高度设置（表格的简单应用）
 
-<img src="http://image.renkaigis.com/keepcoding/2018022001.png">
+<img src="http://image.renkaigis.com/keepcoding/2018022201.png">
 
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/02/20" target="_blank">参见程序源代码</a>
-
-**运行结果：**
-
-```java
-
-```
-
-# 244：发送带附件的 Email（其他 Commons 组件简介）
-
-<img src="http://image.renkaigis.com/keepcoding/2018022001.png">
-
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/02/20" target="_blank">参见程序源代码</a>
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/02/22" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 
-```java
+<img src="http://image.renkaigis.com/keepcoding/2018022202.png">
 
-```
+# 338：调整表格各列的宽度（表格的简单应用）
+
+<img src="http://image.renkaigis.com/keepcoding/2018022203.png">
+
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/02/22" target="_blank">参见程序源代码</a>
+
+**运行结果：**
+
+<img src="http://image.renkaigis.com/keepcoding/2018022204.png">
+
+<img src="http://image.renkaigis.com/keepcoding/2018022205.png">
 

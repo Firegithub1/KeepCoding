@@ -1,4 +1,4 @@
-# 298：简单的每日提示信息（顶层容器的应用）
+# 333：查找特定的列表元素（列表的高级应用）
 
 <img src="http://image.renkaigis.com/keepcoding/2018022001.png">
 
@@ -6,19 +6,17 @@
 
 **运行结果：**
 
-```java
+<img src="http://image.renkaigis.com/keepcoding/2018022002.png">
 
-```
+遗憾的是必须得输完全才能匹配上。
 
-# 244：发送带附件的 Email（其他 Commons 组件简介）
+# 334：包含边框的列表元素（列表的高级应用）
 
-<img src="http://image.renkaigis.com/keepcoding/2018022001.png">
+<img src="http://image.renkaigis.com/keepcoding/2018022003.png">
 
 <a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/02/20" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 
-```java
-
-```
+<img src="http://image.renkaigis.com/keepcoding/2018022004.png">
 
