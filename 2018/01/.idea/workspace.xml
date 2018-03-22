@@ -139,7 +139,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../02" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -375,12 +375,12 @@
       <workItem from="1519359386202" duration="9192000" />
       <workItem from="1519460301947" duration="9846000" />
       <workItem from="1519535748246" duration="4949000" />
-      <workItem from="1521728660979" duration="582000" />
+      <workItem from="1521728660979" duration="626000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73110000" />
+    <option name="totallyTimeSpent" value="73154000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

@@ -1,3 +1,5 @@
+# 20180206
+
 # 306：密码域控件的简单应用（输入控件的应用）
 
 <img src="http://image.renkaigis.com/keepcoding/2018020601.png">

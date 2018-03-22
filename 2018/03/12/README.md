@@ -1,3 +1,5 @@
+# 20180312
+
 # 369：只能输入整数的文本域（其他文本控件的应用）
 
 <img src="http://image.renkaigis.com/keepcoding/2018031201.png">

@@ -1,3 +1,5 @@
+# 20180201
+
 # 298：简单的每日提示信息（顶层容器的应用）
 
 <img src="http://image.renkaigis.com/keepcoding/2018020101.png">

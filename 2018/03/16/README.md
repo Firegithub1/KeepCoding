@@ -1,3 +1,5 @@
+# 20180316
+
 # 376：监视文件读入的进度（进度指示器的应用）
 
 <img src="http://image.renkaigis.com/keepcoding/2018031601.png">

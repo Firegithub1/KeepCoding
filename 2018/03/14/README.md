@@ -1,3 +1,5 @@
+# 20180314
+
 # 373：显示完成情况的进度条（进度指示器的应用）
 
 <img src="http://image.renkaigis.com/keepcoding/2018031401.png">
