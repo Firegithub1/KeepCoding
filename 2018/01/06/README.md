@@ -1,3 +1,5 @@
+# 20180106
+
 # 252：自定义最大化、最小化和关闭按钮（设置窗体大小）
 
 <img src="http://image.renkaigis.com/keepcoding/2018010601.png">

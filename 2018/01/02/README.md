@@ -1,3 +1,5 @@
+# 20180102
+
 # 245：读取 XML 文件属性（其他 Commons 组件简介）
 
 <img src="http://image.renkaigis.com/keepcoding/2018010201.png">

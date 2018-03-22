@@ -1,3 +1,5 @@
+# 20180119
+
 # 277：创建内部子窗体（MDI 窗体的使用）
 
 <img src="http://image.renkaigis.com/keepcoding/2018011901.png">

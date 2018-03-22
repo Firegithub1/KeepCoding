@@ -1,3 +1,5 @@
+# 20180124
+
 # 286：窗体标题显示计时器（让窗体更有活力）
 
 <img src="http://image.renkaigis.com/keepcoding/2018012401.png">

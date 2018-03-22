@@ -1,3 +1,5 @@
+# 20180104
+
 # 248：从上次关闭位置启动窗体（设置窗体位置）
 
 <img src="http://image.renkaigis.com/keepcoding/2018010401.png">

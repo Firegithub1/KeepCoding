@@ -1,3 +1,5 @@
+# 20180109
+
 # 257：设置闪烁的标题栏（设置窗体的标题栏）
 
 <img src="http://image.renkaigis.com/keepcoding/2018010901.png">

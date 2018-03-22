@@ -1,3 +1,5 @@
+# 20180125
+
 # 288：仿 QQ 隐藏窗体（让窗体更有活力）
 
 <img src="http://image.renkaigis.com/keepcoding/2018012501.png">

@@ -1,3 +1,5 @@
+# 20180103
+
 # 246：控制窗体加载时的位置（设置窗体位置）
 
 <img src="http://image.renkaigis.com/keepcoding/2018010301.png">

@@ -1,3 +1,5 @@
+# 20180120
+
 # 279：对子窗体进行平铺排列（MDI 窗体的使用）
 
 <img src="http://image.renkaigis.com/keepcoding/2018012001.png">

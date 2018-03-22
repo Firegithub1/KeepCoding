@@ -1,3 +1,5 @@
+# 20180127
+
 # 290：关闭窗体打开网址（让窗体更有活力）
 
 <img src="http://image.renkaigis.com/keepcoding/2018012701.png">
