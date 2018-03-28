@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="refresh" content="3;/RefreshLoc/refresh2.html">
+<title>Insert title here</title>
+</head>
+<body>
+登录成功了，<span id="sid">3</span>秒钟后跳转到 refresh2.html 上…
+</body>
+<script type="text/javascript">
+	onload=function(){
+		setInterval(changeS,1000);
+	}
+	i=3;
+	
+	function changeS(){
+		var obj=document.getElementById("sid");
+		obj.innerHTML=--i;
+	}
+</script>
+</html>

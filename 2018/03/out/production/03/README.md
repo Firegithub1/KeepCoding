@@ -1,22 +1,22 @@
-# 386：实现带标题边框的面板容器（控件边框效果）
+# 20180325
 
-<img src="http://image.renkaigis.com/keepcoding/2018032101.png">
+# 391：支持图标的列表控件（控件渲染让界面 UI 更灵活）
 
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/03/21" target="_blank">参见程序源代码</a>
+<img src="http://image.renkaigis.com/keepcoding/2018032501.png">
 
-**运行结果：**
-
-<img src="http://image.renkaigis.com/keepcoding/2018032102.png">
-
-# 387：指定字体的标题边框（控件边框效果）
-
-<img src="http://image.renkaigis.com/keepcoding/2018032103.png">
-
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/03/20" target="_blank">参见程序源代码</a>
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/03/25" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 
-<img src="http://image.renkaigis.com/keepcoding/2018032104.png">
+<img src="http://image.renkaigis.com/keepcoding/2018032502.png">
 
-<img src="http://image.renkaigis.com/keepcoding/2018032105.png">
+# 392：在列表控件中显示单选按钮（控件渲染让界面 UI 更灵活）
+
+<img src="http://image.renkaigis.com/keepcoding/2018032503.png">
+
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/03/25" target="_blank">参见程序源代码</a>
+
+**运行结果：**
+
+<img src="http://image.renkaigis.com/keepcoding/2018032504.png">
 
