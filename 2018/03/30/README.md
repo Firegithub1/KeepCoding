@@ -1,6 +1,6 @@
 # 20180330
 
-# 
+# 401：迟到的登录按钮（让控件活起来）
 
 <img src="http://image.renkaigis.com/keepcoding/2018033001.png">
 
@@ -10,7 +10,7 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2018033002.png">
 
-# 
+# 402：焦点按钮的缩放（让控件活起来）
 
 <img src="http://image.renkaigis.com/keepcoding/2018033003.png">
 

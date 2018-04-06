@@ -35,7 +35,7 @@ public class RadioList extends JFrame {
         EventQueue.invokeLater(new Runnable() {
             public void run() {
                 try {
-                    RadioList frame = new RadioList();
+                    RadioList2 frame = new RadioList2();
                     frame.setVisible(true);
                 } catch (Exception e) {
                     e.printStackTrace();
