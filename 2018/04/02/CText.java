@@ -10,7 +10,7 @@ public class CText extends JTextField {
         addKeyListener(new KeyAdapter() {
             @Override
             public void keyPressed(KeyEvent e) {
-                if (("012345678" + (char) 8).indexOf(e.getKeyChar()) < 0) {
+                if (("0123456789" + (char) 8).indexOf(e.getKeyChar()) < 0) {
                     e.consume();
                     return;
                 }

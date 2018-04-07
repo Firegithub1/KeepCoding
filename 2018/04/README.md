@@ -8,11 +8,11 @@
 | :---: | :---: | :--- |
 | 01 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/04/01" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/04/01" target="_blank">参见代码</a><br>405：动态加载表格数据（让控件活起来）<br>406：石英钟控件（自定义控件） |
 | 02 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/04/02" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/04/02" target="_blank">参见代码</a><br>407：IP 输入文本框控件（自定义控件） |
-| 03 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/04/03" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/04/03" target="_blank">参见代码</a><br><br> |
-| 04 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/04/04" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/04/04" target="_blank">参见代码</a><br><br> |
-| 05 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/04/05" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/04/05" target="_blank">参见代码</a><br><br> |
-| 06 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/04/06" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/04/06" target="_blank">参见代码</a><br><br> |
-| 07 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/04/07" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/04/07" target="_blank">参见代码</a><br><br> |
+| 03 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/04/03" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/04/03" target="_blank">参见代码</a><br>408：IP 输入文本框控件（自定义控件） |
+| 04 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/04/04" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/04/04" target="_blank">参见代码</a><br>411：修改文件属性（文件操作）<br>412：显示指定类型的文件（文件操作） |
+| 05 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/04/05" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/04/05" target="_blank">参见代码</a><br>413：以树结构显示文件路径（文件操作） |
+| 06 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/04/06" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/04/06" target="_blank">参见代码</a><br>414：查找替换文本文件内容（文件操作） |
+| 07 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/04/07" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/04/07" target="_blank">参见代码</a><br>415：支持图片预览的文件选择对话框（文件操作） |
 | 08 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/04/08" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/04/08" target="_blank">参见代码</a><br><br> |
 | 09 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/04/09" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/04/09" target="_blank">参见代码</a><br><br> |
 | 10 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/04/10" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/04/10" target="_blank">参见代码</a><br><br> |
