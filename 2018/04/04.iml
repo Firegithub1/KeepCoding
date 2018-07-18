@@ -34,8 +34,19 @@
       <sourceFolder url="file://$MODULE_DIR$/28" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/29" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/30" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/10/test0410" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../dbutils" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../dbutils" recursive="false" />
+      </library>
+    </orderEntry>
   </component>
 </module>

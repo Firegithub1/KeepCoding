@@ -1,13 +1,11 @@
-# 20180407
+# 20180430
 
-# 415：支持图片预览的文件选择对话框（文件操作）
+# 447：计数器小程序（实现文件整理）
 
-<img src="http://image.renkaigis.com/keepcoding/2018040701.png">
+<img src="http://image.renkaigis.com/keepcoding/2018043001.png">
 
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/04/07" target="_blank">参见程序源代码</a>
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/04/30" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 
-<img src="http://image.renkaigis.com/keepcoding/2018040702.png">
-
-<img src="http://image.renkaigis.com/keepcoding/2018040703.png">
+<img src="http://image.renkaigis.com/keepcoding/2018043002.png">
