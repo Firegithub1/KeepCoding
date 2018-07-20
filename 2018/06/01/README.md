@@ -1,21 +1,23 @@
-# 20180401
+# 20180601
 
-# 405：动态加载表格数据（让控件活起来）
+**《第Ⅰ卷》后面的都是关于数据库的，所有跳过，开启《第Ⅱ卷》。**
 
-<img src="http://image.renkaigis.com/keepcoding/2018040101.png">
+# 001：绘制直线（绘制图形和文本）
 
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/04/01" target="_blank">参见程序源代码</a>
+<img src="http://image.renkaigis.com/keepcoding/2018060101.png">
 
-**运行结果：**
-
-<img src="http://image.renkaigis.com/keepcoding/2018040102.png">
-
-# 406：石英钟控件（自定义控件）
-
-<img src="http://image.renkaigis.com/keepcoding/2018040103.png">
-
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/04/01" target="_blank">参见程序源代码</a>
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/06/01" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 
-<img src="http://image.renkaigis.com/keepcoding/2018040104.png">
+<img src="http://image.renkaigis.com/keepcoding/2018060102.png">
+
+# 002：绘制矩形（绘制图形和文本）
+
+<img src="http://image.renkaigis.com/keepcoding/2018060103.png">
+
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/06/01" target="_blank">参见程序源代码</a>
+
+**运行结果：**
+
+<img src="http://image.renkaigis.com/keepcoding/2018060104.png">
