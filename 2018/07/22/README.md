@@ -1,6 +1,6 @@
 # 20180701
 
-# 058：模糊（图片特效）
+# 
 
 <img src="http://image.renkaigis.com/keepcoding/2018070101.png">
 
@@ -10,7 +10,7 @@
 
 <img src="http://image.renkaigis.com/keepcoding/2018070102.png">
 
-# 059：锐化（图片特效）
+# 
 
 <img src="http://image.renkaigis.com/keepcoding/2018070103.png">
 
