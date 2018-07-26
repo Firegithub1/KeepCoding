@@ -5,8 +5,6 @@ import javax.swing.JPanel;
 
 /**
  * 带背景的面板组件
- *
- * @author 张振坤
  */
 public class BackgroundPanel2 extends JPanel {
 

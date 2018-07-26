@@ -35,11 +35,11 @@ public class PolicemanGraspThief extends JFrame {
 
         final BackgroundPanel backgroundPanel = new BackgroundPanel();
         backgroundPanel.setFocusable(false);
-        backgroundPanel.setImage(SwingResourceManager.getImage(
+        backgroundPanel.setImage(SwingResourceManager5.getImage(
                 PolicemanGraspThief.class, "/image/background.png"));
         getContentPane().add(backgroundPanel, BorderLayout.CENTER);
 
-        lb_thief.setIcon(SwingResourceManager.getIcon(
+        lb_thief.setIcon(SwingResourceManager5.getIcon(
                 PolicemanGraspThief.class, "/icon/小偷.png"));
         lb_thief.addMouseListener(new MouseAdapter() {
             public void mousePressed(final MouseEvent arg0) {
@@ -56,7 +56,7 @@ public class PolicemanGraspThief extends JFrame {
         lb_tip.setFont(new Font("", Font.BOLD, 16));
         backgroundPanel.add(lb_tip);
 
-        lb_policeman.setIcon(SwingResourceManager.getIcon(
+        lb_policeman.setIcon(SwingResourceManager5.getIcon(
                 PolicemanGraspThief.class, "/icon/警察.png"));
         lb_policeman.setBounds(0, 131, 95, 88);
         backgroundPanel.add(lb_policeman);
@@ -73,7 +73,7 @@ public class PolicemanGraspThief extends JFrame {
     protected JButton getButton() {
         if (button == null) {
             button = new JButton();
-            button.setIcon(SwingResourceManager.getIcon(
+            button.setIcon(SwingResourceManager5.getIcon(
                     PolicemanGraspThief.class, "/icon/zailai.png"));
             button.addActionListener(new ActionListener() {
                 public void actionPerformed(final ActionEvent arg0) {
