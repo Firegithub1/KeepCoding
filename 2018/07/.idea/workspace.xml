@@ -11,15 +11,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="234">
-                <caret line="33" column="209" selection-start-line="33" selection-start-column="209" selection-end-line="33" selection-end-column="209" />
+              <first_editor relative-caret-position="217">
+                <caret line="32" column="218" selection-start-line="32" selection-start-column="218" selection-end-line="32" selection-end-column="218" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/29/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="34">
+                <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainFrame6.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/29/MainFrame6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1029#1056#0" expanded="true" />
+                <element signature="e#1870#2178#0" expanded="true" />
+                <element signature="e#2177#2178#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,11 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/16/README.md" />
-        <option value="$PROJECT_DIR$/16/Direction.java" />
-        <option value="$PROJECT_DIR$/16/GamePanel.java" />
-        <option value="$PROJECT_DIR$/16/Cell.java" />
-        <option value="$PROJECT_DIR$/16/MainFrame1.java" />
         <option value="$PROJECT_DIR$/16/SwingResourceManager.java" />
         <option value="$PROJECT_DIR$/16/SwingResourceManager2.java" />
         <option value="$PROJECT_DIR$/17/CaptureCarbFrame.java" />
@@ -132,8 +155,13 @@
         <option value="$PROJECT_DIR$/25/PrintPicturePanel.java" />
         <option value="$PROJECT_DIR$/25/README.md" />
         <option value="$PROJECT_DIR$/26/README.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/26/MainFrame4.java" />
+        <option value="$PROJECT_DIR$/27/README.md" />
+        <option value="$PROJECT_DIR$/27/MainFrame5.java" />
+        <option value="$PROJECT_DIR$/28/README.md" />
+        <option value="$PROJECT_DIR$/29/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/29/MainFrame6.java" />
       </list>
     </option>
   </component>
@@ -157,6 +185,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,45 +197,18 @@
             <path>
               <item name="07" type="b2602c69:ProjectViewProjectNode" />
               <item name="07" type="462c0819:PsiDirectoryNode" />
-              <item name="20" type="462c0819:PsiDirectoryNode" />
+              <item name="29" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="07" type="b2602c69:ProjectViewProjectNode" />
               <item name="07" type="462c0819:PsiDirectoryNode" />
-              <item name="21" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="07" type="b2602c69:ProjectViewProjectNode" />
-              <item name="07" type="462c0819:PsiDirectoryNode" />
-              <item name="22" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="07" type="b2602c69:ProjectViewProjectNode" />
-              <item name="07" type="462c0819:PsiDirectoryNode" />
-              <item name="23" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="07" type="b2602c69:ProjectViewProjectNode" />
-              <item name="07" type="462c0819:PsiDirectoryNode" />
-              <item name="24" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="07" type="b2602c69:ProjectViewProjectNode" />
-              <item name="07" type="462c0819:PsiDirectoryNode" />
-              <item name="25" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="07" type="b2602c69:ProjectViewProjectNode" />
-              <item name="07" type="462c0819:PsiDirectoryNode" />
-              <item name="26" type="462c0819:PsiDirectoryNode" />
+              <item name="30" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -220,11 +223,11 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\KeepCoding\2018\07\28" />
       <recent name="D:\Java\KeepCoding\2018\07\23" />
       <recent name="D:\Java\KeepCoding\2018\07\22" />
       <recent name="D:\Java\KeepCoding\2018\07\21" />
       <recent name="D:\Java\KeepCoding\2018\07\20" />
-      <recent name="D:\Java\KeepCoding\2018\07\19" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -239,19 +242,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainFrame4">
+  <component name="RunManager" selected="Application.MainFrame6">
     <configuration name="MainFrame4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainFrame4" />
       <module name="07" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="PrintControlFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintControlFrame" />
+    <configuration name="MainFrame5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainFrame5" />
       <module name="07" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="PrintDialogDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintDialogDemo" />
+    <configuration name="MainFrame6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainFrame6" />
       <module name="07" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -307,19 +310,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.PrintDialogDemo" />
-      <item itemvalue="Application.PrintControlFrame" />
       <item itemvalue="Application.PrintShapeFrame" />
       <item itemvalue="Application.PrintPicturePanel" />
       <item itemvalue="Application.MainFrame4" />
+      <item itemvalue="Application.MainFrame5" />
+      <item itemvalue="Application.MainFrame6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainFrame6" />
+        <item itemvalue="Application.MainFrame5" />
         <item itemvalue="Application.MainFrame4" />
         <item itemvalue="Application.PrintPicturePanel" />
         <item itemvalue="Application.PrintShapeFrame" />
-        <item itemvalue="Application.PrintControlFrame" />
-        <item itemvalue="Application.PrintDialogDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -336,12 +339,14 @@
       <workItem from="1532060565591" duration="6807000" />
       <workItem from="1532077630501" duration="1450000" />
       <workItem from="1532081219522" duration="604000" />
-      <workItem from="1532566713070" duration="2913000" />
+      <workItem from="1532566713070" duration="3074000" />
+      <workItem from="1532591497096" duration="14000" />
+      <workItem from="1532834653890" duration="2122000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11774000" />
+    <option name="totallyTimeSpent" value="14071000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="885" extended-state="6" />
@@ -358,11 +363,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3264177" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32918397" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2596401" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26606685" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -370,6 +374,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -384,57 +389,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/14/WaterWaveActionFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="136">
-            <caret line="8" column="9" lean-forward="true" selection-end-line="20" selection-end-column="64" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="136">
-            <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15/PictureMatchingFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15/PigWalkMazeFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="20" selection-end-column="64" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/16/MainFrame1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-634">
@@ -480,16 +434,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2244">
           <caret line="132" column="20" lean-forward="true" selection-start-line="132" selection-start-column="20" selection-end-line="132" selection-end-column="20" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#806#807#0" expanded="true" />
-            <element signature="e#870#871#0" expanded="true" />
-            <element signature="e#938#939#0" expanded="true" />
-            <element signature="e#1002#1003#0" expanded="true" />
-            <element signature="e#1069#1070#0" expanded="true" />
-            <element signature="e#1135#1136#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -511,11 +455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
           <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -540,9 +479,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -553,9 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -570,9 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1824">
           <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -747,13 +677,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/23/SwingResourceManager7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/23/SwingResourceManager7.java" />
     <entry file="file://$PROJECT_DIR$/23/MainFrame3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -887,8 +811,58 @@
     <entry file="file://$PROJECT_DIR$/26/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+          <first_editor relative-caret-position="153">
+            <caret line="9" lean-forward="true" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27/MainFrame5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#932#959#0" expanded="true" />
+            <element signature="e#1784#2092#0" expanded="true" />
+            <element signature="e#2091#2092#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
           <first_editor relative-caret-position="68">
-            <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            <caret line="4" column="41" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
@@ -897,10 +871,24 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="234">
-            <caret line="33" column="209" selection-start-line="33" selection-start-column="209" selection-end-line="33" selection-end-column="209" />
+          <first_editor relative-caret-position="217">
+            <caret line="32" column="218" selection-start-line="32" selection-start-column="218" selection-end-line="32" selection-end-column="218" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29/MainFrame6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1029#1056#0" expanded="true" />
+            <element signature="e#1870#2178#0" expanded="true" />
+            <element signature="e#2177#2178#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -32,8 +32,8 @@
 | 24 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/07/24" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/07/24" target="_blank">参见代码</a><br>094：“打印”对话框（打印控制）<br>095：实现打印（打印控制） |
 | 25 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/07/25" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/07/25" target="_blank">参见代码</a><br>096：打印图形（打印控制）<br>097：打印图片（打印控制） |
 | 26 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/07/26" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/07/26" target="_blank">参见代码</a><br>098：打印预览（打印控制） |
-| 27 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/07/27" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/07/27" target="_blank">参见代码</a><br><br> |
-| 28 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/07/28" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/07/28" target="_blank">参见代码</a><br><br> |
-| 29 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/07/29" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/07/29" target="_blank">参见代码</a><br><br> |
+| 27 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/07/27" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/07/27" target="_blank">参见代码</a><br>099：倒序打印（打印控制） |
+| 28 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/07/28" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/07/28" target="_blank">参见代码</a><br>Python：原生爬虫练习 |
+| 29 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/07/29" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/07/29" target="_blank">参见代码</a><br>100：为打印内容添加水印（打印控制） |
 | 30 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/07/30" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/07/30" target="_blank">参见代码</a><br> |
 | 31 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/07/31" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/07/31" target="_blank">参见代码</a><br> |
