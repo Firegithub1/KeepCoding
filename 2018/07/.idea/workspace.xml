@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8a8d083-da54-4261-9c3a-d04b840847aa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/31/BackgroundPanel6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31/ExpressPrintFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31/TargetTextField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31/image/express.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../2017/12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2017/12/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/30/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/30/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/31/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/07/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/07/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,6 +16,7 @@
     <session id="-1010509475">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -216,7 +209,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533460153516" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533461385774" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
@@ -340,12 +333,12 @@
       <workItem from="1532591497096" duration="14000" />
       <workItem from="1532834653890" duration="2807000" />
       <workItem from="1533458902373" duration="464000" />
-      <workItem from="1533459806501" duration="977000" />
+      <workItem from="1533459806501" duration="1611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16197000" />
+    <option name="totallyTimeSpent" value="16831000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="885" extended-state="6" />
