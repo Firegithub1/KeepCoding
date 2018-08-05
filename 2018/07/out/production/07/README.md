@@ -1,11 +1,11 @@
-# 20180729
+# 20180716
 
-# 100：为打印内容添加水印（打印控制）
+# 086：拼图游戏（游戏开发）
 
-<img src="http://image.renkaigis.com/keepcoding/2018072901.png">
+<img src="http://image.renkaigis.com/keepcoding/2018071601.png">
 
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/07/29" target="_blank">参见程序源代码</a>
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/07/16" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 
-<img src="http://image.renkaigis.com/keepcoding/2018072902.png">
+<img src="http://image.renkaigis.com/keepcoding/2018071602.png">

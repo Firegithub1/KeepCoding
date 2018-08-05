@@ -35,5 +35,5 @@
 | 27 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/07/27" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/07/27" target="_blank">参见代码</a><br>099：倒序打印（打印控制） |
 | 28 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/07/28" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/07/28" target="_blank">参见代码</a><br>Python：原生爬虫练习 |
 | 29 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/07/29" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/07/29" target="_blank">参见代码</a><br>100：为打印内容添加水印（打印控制） |
-| 30 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/07/30" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/07/30" target="_blank">参见代码</a><br> |
-| 31 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/07/31" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/07/31" target="_blank">参见代码</a><br> |
+| 30 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/07/30" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/07/30" target="_blank">参见代码</a><br>101：自动为打印内容添加水印（打印控制） |
+| 31 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/07/31" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/07/31" target="_blank">参见代码</a><br>102：打印快递单（打印的应用） |
