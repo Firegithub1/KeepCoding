@@ -1,11 +1,11 @@
-# 20180801
+# 20180811
 
-# 103：打印报表（打印的应用）
+# 127：填充纹理并保存图片（打印的应用）
 
-<img src="http://image.renkaigis.com/keepcoding/2018080101.png">
+<img src="http://image.renkaigis.com/keepcoding/2018081101.png">
 
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/08/01" target="_blank">参见程序源代码</a>
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/08/11" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 
-<img src="http://image.renkaigis.com/keepcoding/2018080102.png">
+<img src="http://image.renkaigis.com/keepcoding/2018081102.png">

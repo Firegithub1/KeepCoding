@@ -2,23 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa54cb68-b3f1-41d4-bfb1-5eb3ae1f3848" name="Default Changelist" comment="dfgsd">
-      <change afterPath="$PROJECT_DIR$/01/PrintDesktop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01/PrintPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/SaveImageFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/img/image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03/RenameImageFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04/SaveZoomImageFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04/img/image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/SaveWatermarkPictureFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/img/image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06/SaveMixPictureFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06/img/imag.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06/img/img.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/02/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/03/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/04/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/05/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/06/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07/SaveBlurPictureFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07/img/imag.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08/SaveSharpenPictureFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08/img/imag.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/SaveEdgeDetectPictureFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/img/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/SaveNegativePictureFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/img/imag.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/SaveTextureFillFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/GainAnyPointColorFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/BrowerPictureFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/ConversionPictureFormatFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/ClockFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/ClockPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/clock.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16/DrawPictureCanvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16/DrawPictureFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/CaptureScreenImageFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18/ScreenZoomInFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19/ChartDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20/ChartDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21/ChartDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22/ChartDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23/ChartDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24/ChartDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25/ChartDemo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25/backgroundImage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26/ChartDemo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26/backgroundImage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27/ChartDemo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27/backgroundImage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28/ChartDemo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29/ChartDemo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30/ChartDemo12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/07/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/08/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/09/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/10/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/11/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/12/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/13/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/14/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/15/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/16/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/17/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/18/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/18/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/19/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/20/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/21/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/22/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/23/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/24/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/25/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/26/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/27/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/28/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/29/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/29/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/30/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/08/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/08/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/08/img/imag.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/08/img/imag.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/08/img/image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/08/img/image.jpg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,36 +77,38 @@
     <session id="-1207022979">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="10" />
-          <entry key="md" value="10" />
+          <entry key="java" value="44" />
+          <entry key="md" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="10" />
-          <entry key="Markdown" value="10" />
+          <entry key="JAVA" value="44" />
+          <entry key="Markdown" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="69" />
-          <entry key="md" value="128" />
+          <entry key="java" value="228" />
+          <entry key="md" value="513" />
           <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="69" />
-          <entry key="Markdown" value="128" />
+          <entry key="JAVA" value="228" />
+          <entry key="Markdown" value="513" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -70,13 +118,25 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="134">
-                <caret line="13" column="215" selection-start-line="13" selection-start-column="215" selection-end-line="13" selection-end-column="215" />
+              <first_editor relative-caret-position="303">
+                <caret line="37" column="214" selection-start-line="37" selection-start-column="214" selection-end-line="37" selection-end-column="214" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/30/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="34">
+                <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -84,13 +144,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/06/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="51">
-                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/30/ChartDemo12.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,23 +170,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01/PrintPanel.java" />
-        <option value="$PROJECT_DIR$/01/PrintDesktop.java" />
-        <option value="$PROJECT_DIR$/01/README.md" />
-        <option value="$PROJECT_DIR$/02/CodePanel.java" />
-        <option value="$PROJECT_DIR$/02/PreviewDialog.java" />
-        <option value="$PROJECT_DIR$/02/PrintCodingFrame.java" />
-        <option value="$PROJECT_DIR$/02/README.md" />
-        <option value="$PROJECT_DIR$/02/SaveImageFrame.java" />
-        <option value="$PROJECT_DIR$/03/README.md" />
-        <option value="$PROJECT_DIR$/03/RenameImageFrame.java" />
-        <option value="$PROJECT_DIR$/04/README.md" />
-        <option value="$PROJECT_DIR$/04/SaveZoomImageFrame.java" />
-        <option value="$PROJECT_DIR$/05/README.md" />
-        <option value="$PROJECT_DIR$/05/SaveWatermarkPictureFrame.java" />
-        <option value="$PROJECT_DIR$/06/README.md" />
+        <option value="$PROJECT_DIR$/08/README.md" />
+        <option value="$PROJECT_DIR$/08/SaveSharpenPictureFrame.java" />
+        <option value="$PROJECT_DIR$/09/README.md" />
+        <option value="$PROJECT_DIR$/09/SaveEdgeDetectPictureFrame.java" />
+        <option value="$PROJECT_DIR$/10/README.md" />
+        <option value="$PROJECT_DIR$/10/SaveNegativePictureFrame.java" />
+        <option value="$PROJECT_DIR$/11/README.md" />
+        <option value="$PROJECT_DIR$/11/SaveTextureFillFrame.java" />
+        <option value="$PROJECT_DIR$/12/DAO.java" />
+        <option value="$PROJECT_DIR$/12/SavePictureToAccessFrame.java" />
+        <option value="$PROJECT_DIR$/12/README.md" />
+        <option value="$PROJECT_DIR$/12/GainAnyPointColorFrame.java" />
+        <option value="$PROJECT_DIR$/13/README.md" />
+        <option value="$PROJECT_DIR$/13/BrowerPictureFrame.java" />
+        <option value="$PROJECT_DIR$/14/README.md" />
+        <option value="$PROJECT_DIR$/14/ConversionPictureFormatFrame.java" />
+        <option value="$PROJECT_DIR$/15/ClockPanel.java" />
+        <option value="$PROJECT_DIR$/15/README.md" />
+        <option value="$PROJECT_DIR$/15/ClockFrame.java" />
+        <option value="$PROJECT_DIR$/16/README.md" />
+        <option value="$PROJECT_DIR$/16/DrawPictureCanvas.java" />
+        <option value="$PROJECT_DIR$/16/DrawPictureFrame.java" />
+        <option value="$PROJECT_DIR$/17/CaptureScreenImageFrame.java" />
+        <option value="$PROJECT_DIR$/17/README.md" />
+        <option value="$PROJECT_DIR$/18/ScreenZoomInFrame.java" />
+        <option value="$PROJECT_DIR$/18/README.md" />
+        <option value="$PROJECT_DIR$/19/README.md" />
+        <option value="$PROJECT_DIR$/19/ChartDemo1.java" />
+        <option value="$PROJECT_DIR$/20/README.md" />
+        <option value="$PROJECT_DIR$/20/ChartDemo2.java" />
+        <option value="$PROJECT_DIR$/21/README.md" />
+        <option value="$PROJECT_DIR$/21/ChartDemo3.java" />
+        <option value="$PROJECT_DIR$/22/README.md" />
+        <option value="$PROJECT_DIR$/22/ChartDemo4.java" />
+        <option value="$PROJECT_DIR$/23/README.md" />
+        <option value="$PROJECT_DIR$/23/ChartDemo5.java" />
+        <option value="$PROJECT_DIR$/24/README.md" />
+        <option value="$PROJECT_DIR$/24/ChartDemo6.java" />
+        <option value="$PROJECT_DIR$/25/README.md" />
+        <option value="$PROJECT_DIR$/25/ChartDemo7.java" />
+        <option value="$PROJECT_DIR$/26/README.md" />
+        <option value="$PROJECT_DIR$/26/ChartDemo8.java" />
+        <option value="$PROJECT_DIR$/28/README.md" />
+        <option value="$PROJECT_DIR$/27/README.md" />
+        <option value="$PROJECT_DIR$/27/ChartDemo9.java" />
+        <option value="$PROJECT_DIR$/28/ChartDemo10.java" />
+        <option value="$PROJECT_DIR$/29/README.md" />
+        <option value="$PROJECT_DIR$/29/ChartDemo11.java" />
+        <option value="$PROJECT_DIR$/30/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/06/SaveMixPictureFrame.java" />
+        <option value="$PROJECT_DIR$/30/ChartDemo12.java" />
       </list>
     </option>
   </component>
@@ -150,6 +244,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,36 +256,72 @@
             <path>
               <item name="08" type="b2602c69:ProjectViewProjectNode" />
               <item name="08" type="462c0819:PsiDirectoryNode" />
-              <item name="06" type="462c0819:PsiDirectoryNode" />
+              <item name="30" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="08" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="08" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="jfreechart-1.0.19.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="08" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="jfreechart-1.0.19.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="08" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="jfreechart-1.0.19.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="jfree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="08" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="jfreechart-1.0.19.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="jfree" type="462c0819:PsiDirectoryNode" />
+              <item name="chart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="08" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="jfreechart-1.0.19.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="jfree" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533520641158" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../dbutils/jbarcodebean-1.2.0.jar!/" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535767339564" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../dbutils" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Java\KeepCoding\2018\08\06" />
-      <recent name="D:\Java\KeepCoding\2018\08\05" />
-      <recent name="D:\Java\KeepCoding\2018\08\04" />
-      <recent name="D:\Java\KeepCoding\2018\08\02" />
-      <recent name="D:\Java\KeepCoding\2018\08\31" />
+      <recent name="D:\Java\KeepCoding\2018\08\27" />
+      <recent name="D:\Java\KeepCoding\2018\08\26" />
+      <recent name="D:\Java\KeepCoding\2018\08\25" />
+      <recent name="D:\Java\KeepCoding\2018\08\15" />
+      <recent name="D:\Java\KeepCoding\2018\08\10" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -204,56 +336,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SaveMixPictureFrame">
-    <configuration name="RenameImageFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RenameImageFrame" />
+  <component name="RunManager" selected="Application.ChartDemo13">
+    <configuration name="ChartDemo10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChartDemo10" />
       <module name="08" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SaveImageFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SaveImageFrame" />
+    <configuration name="ChartDemo11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChartDemo11" />
       <module name="08" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SaveMixPictureFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SaveMixPictureFrame" />
+    <configuration name="ChartDemo12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChartDemo12" />
       <module name="08" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SaveWatermarkPictureFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SaveWatermarkPictureFrame" />
+    <configuration name="ChartDemo13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChartDemo13" />
       <module name="08" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SaveZoomImageFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SaveZoomImageFrame" />
+    <configuration name="ChartDemo9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChartDemo9" />
       <module name="08" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SaveImageFrame" />
-      <item itemvalue="Application.RenameImageFrame" />
-      <item itemvalue="Application.SaveZoomImageFrame" />
-      <item itemvalue="Application.SaveWatermarkPictureFrame" />
-      <item itemvalue="Application.SaveMixPictureFrame" />
+      <item itemvalue="Application.ChartDemo9" />
+      <item itemvalue="Application.ChartDemo10" />
+      <item itemvalue="Application.ChartDemo11" />
+      <item itemvalue="Application.ChartDemo12" />
+      <item itemvalue="Application.ChartDemo13" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SaveMixPictureFrame" />
-        <item itemvalue="Application.SaveWatermarkPictureFrame" />
-        <item itemvalue="Application.SaveZoomImageFrame" />
-        <item itemvalue="Application.RenameImageFrame" />
-        <item itemvalue="Application.SaveImageFrame" />
+        <item itemvalue="Application.ChartDemo13" />
+        <item itemvalue="Application.ChartDemo12" />
+        <item itemvalue="Application.ChartDemo11" />
+        <item itemvalue="Application.ChartDemo10" />
+        <item itemvalue="Application.ChartDemo9" />
       </list>
     </recent_temporary>
   </component>
@@ -268,6 +400,10 @@
       <option name="presentableId" value="Default" />
       <updated>1533465426563</updated>
       <workItem from="1533465428670" duration="4323000" />
+      <workItem from="1533537373818" duration="230000" />
+      <workItem from="1535704417250" duration="56000" />
+      <workItem from="1535704613309" duration="6323000" />
+      <workItem from="1535766490515" duration="751000" />
     </task>
     <task id="LOCAL-00001" summary="dfgsd">
       <created>1533466179286</created>
@@ -280,39 +416,40 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4323000" />
+    <option name="totallyTimeSpent" value="11683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="885" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26285347" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3292011" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3292011" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3292011" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3292011" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39944905" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3292011" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3292011" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,185 +463,481 @@
     <option name="LAST_COMMIT_MESSAGE" value="dfgsd" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01/PrintPanel.java">
+    <entry file="file://$PROJECT_DIR$/08/SaveSharpenPictureFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#850#851#0" expanded="true" />
-            <element signature="e#884#885#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/PrintDesktop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        <state relative-caret-position="1853">
+          <caret line="109" column="9" lean-forward="true" selection-start-line="109" selection-start-column="9" selection-end-line="109" selection-end-column="9" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="2" selection-end-line="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02/PrintCodingFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-          <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2840#2841#0" expanded="true" />
-            <element signature="e#2904#2905#0" expanded="true" />
-            <element signature="e#3147#3148#0" expanded="true" />
-            <element signature="e#3207#3208#0" expanded="true" />
-            <element signature="e#3338#3339#0" expanded="true" />
-            <element signature="e#3370#3371#0" expanded="true" />
+            <element signature="e#488#515#0" expanded="true" />
+            <element signature="e#3224#3225#0" expanded="true" />
+            <element signature="e#3270#3271#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02/PreviewDialog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#1971#1972#0" expanded="true" />
-            <element signature="e#2035#2036#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../dbutils/jbarcodebean-1.2.0.jar!/jbarcodebean/JBarcodeBeanBeanInfo.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#286#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../dbutils/jbarcodebean-1.2.0.jar!/jbarcodebean/JBarcodeBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="77" lean-forward="true" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02/CodePanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#7491#7492#0" expanded="true" />
-            <element signature="e#7529#7530#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02/SaveImageFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#472#499#0" expanded="true" />
-            <element signature="e#2823#2824#0" expanded="true" />
-            <element signature="e#2869#2870#0" expanded="true" />
-            <element signature="e#3064#3065#0" expanded="true" />
-            <element signature="e#3127#3128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02/README.md">
+    <entry file="file://$PROJECT_DIR$/08/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="68">
-            <caret line="4" column="31" lean-forward="true" selection-end-line="11" />
+            <caret line="4" column="26" selection-end-line="10" selection-end-column="64" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03/RenameImageFrame.java">
+    <entry file="file://$PROJECT_DIR$/09/SaveEdgeDetectPictureFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        <state relative-caret-position="306">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#646#673#0" expanded="true" />
-            <element signature="e#5287#5288#0" expanded="true" />
-            <element signature="e#5375#5376#0" expanded="true" />
+            <element signature="e#488#515#0" expanded="true" />
+            <element signature="e#3277#3278#0" expanded="true" />
+            <element signature="e#3323#3324#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03/README.md">
+    <entry file="file://$PROJECT_DIR$/09/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" lean-forward="true" selection-end-line="11" />
+          <first_editor relative-caret-position="119">
+            <caret line="7" lean-forward="true" selection-end-line="10" selection-end-column="64" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04/SaveZoomImageFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#470#497#0" expanded="true" />
-            <element signature="e#5391#5392#0" expanded="true" />
-            <element signature="e#5445#5446#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04/README.md">
+    <entry file="file://$PROJECT_DIR$/10/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="23" lean-forward="true" selection-end-line="11" />
+          <first_editor relative-caret-position="170">
+            <caret line="10" column="64" lean-forward="true" selection-end-line="10" selection-end-column="64" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05/SaveWatermarkPictureFrame.java">
+    <entry file="file://$PROJECT_DIR$/10/SaveNegativePictureFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1989">
-          <caret line="117" column="59" lean-forward="true" selection-start-line="117" selection-start-column="59" selection-end-line="117" selection-end-column="59" />
+        <state relative-caret-position="301">
+          <caret line="117" column="5" lean-forward="true" selection-start-line="117" selection-start-column="5" selection-end-line="117" selection-end-column="5" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="e#576#603#0" expanded="true" />
-            <element signature="e#4413#4414#0" expanded="true" />
-            <element signature="e#4459#4460#0" expanded="true" />
+            <element signature="e#496#523#0" expanded="true" />
+            <element signature="e#3749#3750#0" expanded="true" />
+            <element signature="e#3795#3796#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05/README.md">
+    <entry file="file://$PROJECT_DIR$/11/SaveTextureFillFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#516#543#0" expanded="true" />
+            <element signature="e#4092#4093#0" expanded="true" />
+            <element signature="e#4138#4139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="22" lean-forward="true" selection-end-line="10" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12/SavePictureToAccessFrame.java" />
+    <entry file="file://$PROJECT_DIR$/12/DAO.java" />
+    <entry file="file://$PROJECT_DIR$/12/GainAnyPointColorFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="102">
-            <caret line="6" column="30" lean-forward="true" selection-end-line="11" />
+            <caret line="6" column="33" lean-forward="true" selection-end-line="10" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13/BrowerPictureFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1146#1154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/ConversionPictureFormatFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#689#716#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" lean-forward="true" selection-end-line="10" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15/ClockPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="e#705#732#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15/ClockFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="92" column="43" lean-forward="true" selection-start-line="92" selection-start-column="43" selection-end-line="92" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#113#140#0" expanded="true" />
+            <element signature="e#1178#1433#0" expanded="true" />
+            <element signature="e#1432#1433#0" expanded="true" />
+            <element signature="e#1507#1807#0" expanded="true" />
+            <element signature="e#1806#1807#0" expanded="true" />
+            <element signature="e#1850#2748#0" expanded="true" />
+            <element signature="e#2747#2748#0" expanded="true" />
+            <element signature="e#2997#3399#0" expanded="true" />
+            <element signature="e#3398#3399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" lean-forward="true" selection-end-line="10" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/DrawPictureFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/DrawPictureCanvas.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/CaptureScreenImageFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="92" column="58" selection-start-line="92" selection-start-column="58" selection-end-line="92" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="119">
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="10" column="42" selection-end-line="10" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18/ScreenZoomInFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19/ChartDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="22" selection-end-line="10" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20/ChartDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" lean-forward="true" selection-end-line="10" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21/ChartDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="9" lean-forward="true" selection-end-line="10" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22/ChartDemo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="27" lean-forward="true" selection-end-line="10" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23/ChartDemo5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="27" lean-forward="true" selection-end-line="10" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24/ChartDemo6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="23" lean-forward="true" selection-end-line="10" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25/ChartDemo7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="66" column="27" lean-forward="true" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="20" lean-forward="true" selection-end-line="10" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26/ChartDemo8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="47" lean-forward="true" selection-end-line="10" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27/ChartDemo9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28/ChartDemo10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="69" column="6" lean-forward="true" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="20" lean-forward="true" selection-end-line="10" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29/ChartDemo11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="40" lean-forward="true" selection-end-line="10" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
@@ -513,34 +946,20 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="134">
-            <caret line="13" column="215" selection-start-line="13" selection-start-column="215" selection-end-line="13" selection-end-column="215" />
+          <first_editor relative-caret-position="303">
+            <caret line="37" column="214" selection-start-line="37" selection-start-column="214" selection-end-line="37" selection-end-column="214" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06/SaveMixPictureFrame.java">
+    <entry file="file://$PROJECT_DIR$/30/ChartDemo12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="88" column="31" lean-forward="true" selection-start-line="88" selection-start-column="31" selection-end-line="88" selection-end-column="31" />
+        <state relative-caret-position="136">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#530#557#0" expanded="true" />
-            <element signature="e#5212#5213#0" expanded="true" />
-            <element signature="e#5258#5259#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
