@@ -14,13 +14,13 @@
 | 06 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/10/06" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/06" target="_blank">参见代码</a><br>192：X 轴分类的间距（X 坐标轴） |
 | 07 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/10/07" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/07" target="_blank">参见代码</a><br>193：X 轴分类与原点的间距（X 坐标轴） |
 | 08 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/10/08" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/08" target="_blank">参见代码</a><br>194：X 轴的显示位置（X 坐标轴） |
-| 09 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/10/09" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/09" target="_blank">参见代码</a><br> |
-| 10 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/10/10" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/10" target="_blank">参见代码</a><br> |
-| 11 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/10/11" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/11" target="_blank">参见代码</a><br> |
-| 12 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/10/12" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/12" target="_blank">参见代码</a><br> |
-| 13 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/10/13" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/13" target="_blank">参见代码</a><br> |
-| 14 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/10/14" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/14" target="_blank">参见代码</a><br> |
-| 15 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/10/15" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/15" target="_blank">参见代码</a><br> |
+| 09 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/10/09" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/09" target="_blank">参见代码</a><br>195：Y 轴字体（Y 坐标轴） |
+| 10 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/10/10" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/10" target="_blank">参见代码</a><br>196：Y 轴标签字体（Y 坐标轴） |
+| 11 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/10/11" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/11" target="_blank">参见代码</a><br>197：Y 轴显示情况（Y 坐标轴） |
+| 12 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/10/12" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/12" target="_blank">参见代码</a><br>198：Y 轴尺度颜色（Y 坐标轴） |
+| 13 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/10/13" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/13" target="_blank">参见代码</a><br>199：隐藏 Y 轴尺度（Y 坐标轴） |
+| 14 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/10/14" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/14" target="_blank">参见代码</a><br>200：Y 轴尺度笔触（Y 坐标轴） |
+| 15 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/10/15" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/15" target="_blank">参见代码</a><br>201：Y 轴尺度标签角度（Y 坐标轴） |
 | 16 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/10/16" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/16" target="_blank">参见代码</a><br> |
 | 17 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/10/17" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/17" target="_blank">参见代码</a><br> |
 | 18 | ✔ | <a href="http://blog.renkaigis.com/KeepCoding/2018/10/18" target="_blank">详见网页</a>，<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/18" target="_blank">参见代码</a><br> |
