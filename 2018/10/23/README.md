@@ -1,11 +1,11 @@
-# 20180923
+# 20181023
 
-# 179：多饼图的展示方式（多饼图）
+# 209：设置 Y 轴数据范围（Y 坐标轴）
 
-<img src="http://image.renkaigis.com/keepcoding/2018092301.png">
+<img src="http://image.renkaigis.com/keepcoding/2018102301.png">
 
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/09/23" target="_blank">参见程序源代码</a>
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/23" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 
-<img src="http://image.renkaigis.com/keepcoding/2018092302.png">
+<img src="http://image.renkaigis.com/keepcoding/2018102302.png">

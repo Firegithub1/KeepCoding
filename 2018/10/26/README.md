@@ -1,11 +1,11 @@
-# 20180926
+# 20181026
 
-# 182：柱形图角度（基本柱形图）
+# 212：设置网格竖线颜色（高级柱形图）
 
-<img src="http://image.renkaigis.com/keepcoding/2018092601.png">
+<img src="http://image.renkaigis.com/keepcoding/2018102601.png">
 
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/09/26" target="_blank">参见程序源代码</a>
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/26" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 
-<img src="http://image.renkaigis.com/keepcoding/2018092602.png">
+<img src="http://image.renkaigis.com/keepcoding/2018102602.png">

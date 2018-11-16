@@ -1,11 +1,11 @@
-# 20180930
+# 20181031
 
-# 186：X 轴标签角度（X 坐标轴）
+# 217：设置柱形图文本注解类别锚点（高级柱形图）
 
-<img src="http://image.renkaigis.com/keepcoding/2018093001.png">
+<img src="http://image.renkaigis.com/keepcoding/2018103101.png">
 
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/09/30" target="_blank">参见程序源代码</a>
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/31" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 
-<img src="http://image.renkaigis.com/keepcoding/2018093002.png">
+<img src="http://image.renkaigis.com/keepcoding/2018103102.png">

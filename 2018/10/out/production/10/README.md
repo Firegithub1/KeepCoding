@@ -1,11 +1,11 @@
-# 20181015
+# 20181031
 
-# 201：Y 轴尺度标签角度（Y 坐标轴）
+# 217：设置柱形图文本注解类别锚点（高级柱形图）
 
-<img src="http://image.renkaigis.com/keepcoding/2018101501.png">
+<img src="http://image.renkaigis.com/keepcoding/2018103101.png">
 
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/15" target="_blank">参见程序源代码</a>
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/31" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 
-<img src="http://image.renkaigis.com/keepcoding/2018101502.png">
+<img src="http://image.renkaigis.com/keepcoding/2018103102.png">

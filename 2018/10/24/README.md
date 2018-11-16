@@ -1,11 +1,11 @@
-# 20180924
+# 20181024
 
-# 180：3D 多饼图（多饼图）
+# 210：Y 轴的显示位置（Y 坐标轴）
 
-<img src="http://image.renkaigis.com/keepcoding/2018092401.png">
+<img src="http://image.renkaigis.com/keepcoding/2018102401.png">
 
-<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/09/24" target="_blank">参见程序源代码</a>
+<a href="https://github.com/renkaigis/KeepCoding/tree/master/2018/10/24" target="_blank">参见程序源代码</a>
 
 **运行结果：**
 
-<img src="http://image.renkaigis.com/keepcoding/2018092402.png">
+<img src="http://image.renkaigis.com/keepcoding/2018102402.png">
