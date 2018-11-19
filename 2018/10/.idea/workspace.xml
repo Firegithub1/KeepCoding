@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="196ebfd9-089b-4fed-85fe-2f10fd28d2ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/16/BarDemo21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/BarDemo23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18/BarDemo25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19/BarDemo26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20/BarDemo22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21/BarDemo24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22/BarDemo27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23/BarDemo28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/BarDemo39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25/BarDemo29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26/BarDemo30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27/BarDemo31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28/BarDemo32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29/BarDemo33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30/BarDemo34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31/BarDemo35.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/16/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/17/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/18/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/18/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/19/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/19/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/20/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/21/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/22/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/22/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/23/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/23/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/24/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/24/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/25/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/25/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/26/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/26/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/27/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/28/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/29/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/29/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/30/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/30/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/31/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/10/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/10/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +15,7 @@
     <session id="-1431866221">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.13" value="1" />
@@ -63,25 +29,25 @@
         <counts>
           <entry key="iml" value="1" />
           <entry key="java" value="35" />
-          <entry key="md" value="44" />
+          <entry key="md" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="35" />
-          <entry key="Markdown" value="44" />
+          <entry key="Markdown" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="133" />
+          <entry key="java" value="142" />
           <entry key="md" value="378" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="133" />
+          <entry key="JAVA" value="142" />
           <entry key="Markdown" value="378" />
         </counts>
       </usages-collector>
@@ -93,35 +59,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="323">
-                <caret line="37" column="217" selection-start-line="37" selection-start-column="217" selection-end-line="37" selection-end-column="217" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/31/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <first_editor relative-caret-position="102">
+                <caret line="6" column="72" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/31/BarDemo35.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -141,7 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/06/BarDemo17.java" />
         <option value="$PROJECT_DIR$/07/README.md" />
         <option value="$PROJECT_DIR$/07/BarDemo18.java" />
         <option value="$PROJECT_DIR$/08/README.md" />
@@ -190,8 +134,9 @@
         <option value="$PROJECT_DIR$/29/BarDemo33.java" />
         <option value="$PROJECT_DIR$/30/README.md" />
         <option value="$PROJECT_DIR$/30/BarDemo34.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/31/README.md" />
+        <option value="$PROJECT_DIR$/31/BarDemo35.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -225,11 +170,6 @@
               <item name="10" type="b2602c69:ProjectViewProjectNode" />
               <item name="10" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="10" type="462c0819:PsiDirectoryNode" />
-              <item name="31" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -239,7 +179,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542353737095" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542592653292" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../dbutils" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -328,16 +268,15 @@
       <workItem from="1539183012628" duration="83000" />
       <workItem from="1539530439566" duration="1031000" />
       <workItem from="1540643391111" duration="606000" />
-      <workItem from="1542336549589" duration="4871000" />
+      <workItem from="1542336549589" duration="6019000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8128000" />
+    <option name="totallyTimeSpent" value="9276000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="885" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26606685" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -348,13 +287,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3292011" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3292011" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3292011" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3292011" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3292011" />
@@ -876,11 +815,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/31/BarDemo35.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#826#827#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="323">
-            <caret line="37" column="217" selection-start-line="37" selection-start-column="217" selection-end-line="37" selection-end-column="217" />
+          <first_editor relative-caret-position="646">
+            <caret line="38" column="219" selection-start-line="38" selection-start-column="219" selection-end-line="38" selection-end-column="219" />
           </first_editor>
           <second_editor />
         </state>
@@ -889,17 +840,10 @@
     <entry file="file://$PROJECT_DIR$/31/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="72" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/31/BarDemo35.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
