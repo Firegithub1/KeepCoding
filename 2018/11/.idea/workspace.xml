@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f656a14c-a85c-4d8e-9c02-2ea1c57ae691" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/21/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/22/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/22/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/23/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/23/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/24/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/24/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/25/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/25/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/26/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/26/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/27/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,46 +17,47 @@
     <session id="-1628379725">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="40" />
-          <entry key="md" value="33" />
+          <entry key="java" value="43" />
+          <entry key="md" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="40" />
-          <entry key="Markdown" value="33" />
+          <entry key="JAVA" value="43" />
+          <entry key="Markdown" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="294" />
-          <entry key="md" value="503" />
+          <entry key="java" value="306" />
+          <entry key="md" value="534" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="294" />
-          <entry key="Markdown" value="503" />
+          <entry key="JAVA" value="306" />
+          <entry key="Markdown" value="534" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="283">
-                <caret line="33" column="215" lean-forward="true" selection-start-line="33" selection-start-column="215" selection-end-line="33" selection-end-column="215" />
+              <first_editor relative-caret-position="304">
+                <caret line="36" column="197" lean-forward="true" selection-start-line="36" selection-start-column="197" selection-end-line="36" selection-end-column="197" />
               </first_editor>
               <second_editor />
             </state>
@@ -69,11 +65,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/26/README.md">
+        <entry file="file://$PROJECT_DIR$/27/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="16" />
+              <first_editor relative-caret-position="102">
+                <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
               </first_editor>
               <second_editor />
             </state>
@@ -95,10 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/05/README.md" />
-        <option value="$PROJECT_DIR$/05/BarDemo43.java" />
-        <option value="$PROJECT_DIR$/06/README.md" />
-        <option value="$PROJECT_DIR$/06/BarDemo44.java" />
         <option value="$PROJECT_DIR$/07/README.md" />
         <option value="$PROJECT_DIR$/07/BarDemo45.java" />
         <option value="$PROJECT_DIR$/08/README.md" />
@@ -145,6 +137,10 @@
         <option value="$PROJECT_DIR$/25/CategoryStepDemp4.java" />
         <option value="$PROJECT_DIR$/26/README.md" />
         <option value="$PROJECT_DIR$/26/CategoryStepDemp5.java" />
+        <option value="$PROJECT_DIR$/26/CategoryStepDemp6.java" />
+        <option value="$PROJECT_DIR$/27/README.md" />
+        <option value="$PROJECT_DIR$/27/CategoryStepDemp7.java" />
+        <option value="$PROJECT_DIR$/27/CategoryStepDemp8.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -169,8 +165,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,19 +176,20 @@
             <path>
               <item name="11" type="b2602c69:ProjectViewProjectNode" />
               <item name="11" type="462c0819:PsiDirectoryNode" />
-              <item name="26" type="462c0819:PsiDirectoryNode" />
+              <item name="27" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543217480745" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543385135720" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../dbutils" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -214,35 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CategoryStepDemp6">
-    <configuration name="CategoryStepDemp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CategoryStepDemp2" />
-      <module name="11" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CategoryStepDemp3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CategoryStepDemp3" />
-      <module name="11" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CategoryStepDemp4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CategoryStepDemp4" />
-      <module name="11" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CategoryStepDemp5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CategoryStepDemp5" />
-      <module name="11" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.CombinedCategoryDemo2">
     <configuration name="CategoryStepDemp6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CategoryStepDemp6" />
       <module name="11" />
@@ -250,20 +218,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CategoryStepDemp7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CategoryStepDemp7" />
+      <module name="11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoryStepDemp8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CategoryStepDemp8" />
+      <module name="11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CombinedCategoryDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CombinedCategoryDemo1" />
+      <module name="11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CombinedCategoryDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CombinedCategoryDemo2" />
+      <module name="11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.CategoryStepDemp2" />
-      <item itemvalue="Application.CategoryStepDemp3" />
-      <item itemvalue="Application.CategoryStepDemp4" />
-      <item itemvalue="Application.CategoryStepDemp5" />
       <item itemvalue="Application.CategoryStepDemp6" />
+      <item itemvalue="Application.CategoryStepDemp7" />
+      <item itemvalue="Application.CategoryStepDemp8" />
+      <item itemvalue="Application.CombinedCategoryDemo1" />
+      <item itemvalue="Application.CombinedCategoryDemo2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CombinedCategoryDemo2" />
+        <item itemvalue="Application.CombinedCategoryDemo1" />
+        <item itemvalue="Application.CategoryStepDemp8" />
+        <item itemvalue="Application.CategoryStepDemp7" />
         <item itemvalue="Application.CategoryStepDemp6" />
-        <item itemvalue="Application.CategoryStepDemp5" />
-        <item itemvalue="Application.CategoryStepDemp4" />
-        <item itemvalue="Application.CategoryStepDemp3" />
-        <item itemvalue="Application.CategoryStepDemp2" />
       </list>
     </recent_temporary>
   </component>
@@ -278,12 +274,13 @@
       <option name="presentableId" value="Default" />
       <updated>1542592705002</updated>
       <workItem from="1542592706696" duration="4893000" />
-      <workItem from="1543215310025" duration="2130000" />
+      <workItem from="1543215310025" duration="2464000" />
+      <workItem from="1543384602763" duration="306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7023000" />
+    <option name="totallyTimeSpent" value="7663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="885" extended-state="6" />
@@ -294,17 +291,17 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.16902314" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.17095116" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3292011" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3287483" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3292011" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="8" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3292011" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -326,50 +323,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/05/BarDemo43.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#772#773#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="20" lean-forward="true" selection-end-line="10" selection-end-column="64" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06/BarDemo44.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#772#773#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="20" lean-forward="true" selection-end-line="10" selection-end-column="64" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/07/BarDemo45.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -653,11 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -665,11 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#707#708#0" expanded="true" />
-            <element signature="e#735#736#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -687,11 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#708#709#0" expanded="true" />
-            <element signature="e#736#737#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -699,11 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-            <element signature="e#737#738#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -721,12 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#708#709#0" expanded="true" />
-            <element signature="e#736#737#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -734,11 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -756,11 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#751#752#0" expanded="true" />
-            <element signature="e#779#780#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -768,12 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="2" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#805#806#0" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -858,16 +769,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="283">
-            <caret line="33" column="215" lean-forward="true" selection-start-line="33" selection-start-column="215" selection-end-line="33" selection-end-column="215" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/26/CategoryStepDemp5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -880,11 +781,67 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/26/CategoryStepDemp6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#925#926#0" expanded="true" />
+            <element signature="e#953#954#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/26/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="16" />
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="9" lean-forward="true" selection-end-line="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27/CategoryStepDemp7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#809#810#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="304">
+            <caret line="36" column="197" lean-forward="true" selection-start-line="36" selection-start-column="197" selection-end-line="36" selection-end-column="197" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27/CategoryStepDemp8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#940#941#0" expanded="true" />
+            <element signature="e#968#969#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
           </first_editor>
           <second_editor />
         </state>
